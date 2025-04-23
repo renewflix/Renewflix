@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/2131429040" android:visible="false" android:title="@string/2132019823" />
+    <item android:id="@id/2131427891" android:visible="false" android:title="@string/2132019816" />
+    <item android:id="@id/2131427981" android:visible="false" android:title="@string/2132019869" />
+    <item android:id="@id/2131429295" android:visible="false" android:title="@string/2132019826" />
+    <item android:id="@id/2131427636" android:visible="false" android:title="@string/2132019814" />
+    <item android:id="@id/2131429889" android:visible="false" android:title="@string/2132019831" />
+</menu>

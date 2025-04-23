@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton android:id="@id/close_button" android:background="@drawable/2131252073" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132018587" srcCompat="@drawable/2131247329" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

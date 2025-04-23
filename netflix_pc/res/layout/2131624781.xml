@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/2131429352" android:background="@color/2131101877" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" xmlns:form="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/2131429282" android:paddingTop="@dimen/2131166917" android:paddingBottom="@dimen/2131166896" android:layout_height="wrap_content" android:paddingStart="@dimen/2131166897" android:paddingEnd="@dimen/2131166897" style="@style/2132083091">
+        <ImageView android:layout_gravity="end" android:id="@id/2131427718" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131247370" android:contentDescription="@string/2132017200" tint="@color/2131099877" />
+        <o.dei android:textSize="28.0sp" android:textStyle="bold" android:gravity="start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="40.0dip" android:text="@string/2132020342" />
+        <o.dei android:textSize="16.0sp" android:textColor="@color/2131099877" android:gravity="start" android:id="@id/2131429592" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/2132020343" />
+        <com.netflix.mediaclient.acquisition.components.form2.edittext.FormViewEditText android:id="@id/2131428047" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:inputType="textEmailAddress" errorEmpty="@string/2132018061" errorLength="@string/2132018508" errorRegex="@string/2132020345" hint="@string/2132018802" />
+        <o.aaf android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/2131429067" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip">
+            <CheckBox android:id="@id/2131429066" android:layout_width="wrap_content" android:layout_height="wrap_content" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083563" />
+            <o.dei android:id="@id/2131429068" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132020040" android:paddingStart="0.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toEndOf="@id/2131429066" layout_constraintTop_toTopOf="2131429026" style="@style/2132083563" />
+        </o.aaf>
+        <CheckBox android:id="@id/2131428048" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" style="@style/2132083563" />
+        <com.netflix.mediaclient.acquisition.components.signupButton.NetflixSignupButton android:id="@id/2131429331" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166905" android:text="@string/2132018195" />
+    </LinearLayout>
+</ScrollView>

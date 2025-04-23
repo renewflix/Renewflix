@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131429487" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:gravity="center_vertical" android:id="@id/2131427447" android:paddingTop="@dimen/2131166443" android:paddingBottom="@dimen/2131166443" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132019146" android:paddingStart="@dimen/2131165967" android:labelFor="@id/2131427446" layout_constraintEnd_toStartOf="@id/2131427446" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083392" />
+    <o.cz android:id="@id/2131427446" android:layout_width="@dimen/2131165468" android:layout_height="@dimen/2131165466" android:paddingStart="@dimen/2131166443" android:paddingEnd="@dimen/2131166443" layout_constraintBottom_toBottomOf="@id/2131427447" layout_constraintEnd_toEndOf="2131429026" layout_constraintTop_toTopOf="@id/2131427447" style="@style/2132083274" />
+    <View android:background="@color/2131099885" android:layout_width="fill_parent" android:layout_height="1.0dip" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131427447" />
+</o.aaf>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/2131427778" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" statusBarBackground="@null" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131429744" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/2131428276" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+            <FrameLayout android:id="@id/2131429202" android:layout_weight="1.0" style="@style/2132084423" />
+        </LinearLayout>
+        <include android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/2131624836" />
+    </FrameLayout>
+    <include android:layout_gravity="end|bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/2131624241" />
+    <o.ddJ android:id="@id/2131427946" android:layout_width="fill_parent" android:layout_height="fill_parent" android:elevation="@dimen/2131165526" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

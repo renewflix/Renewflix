@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@color/2131101877" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?netflixActionBarSize" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.aaf android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxWidth="450.0dip" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip">
+        <o.dei android:id="@id/2131429711" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="110.0dip" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132082698" />
+        <include android:id="@id/2131427604" android:layout_width="0.0dip" android:layout_height="wrap_content" layout_constraintEnd_toEndOf="@id/2131429711" layout_constraintStart_toStartOf="@id/2131429711" layout_constraintTop_toBottomOf="@id/2131429711" layout="@layout/2131623976" />
+        <com.netflix.mediaclient.acquisition.components.signupButton.NetflixSignupButton android:id="@id/2131427800" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="42.0dip" android:layout_marginBottom="24.0dip" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131427604" />
+    </o.aaf>
+</ScrollView>

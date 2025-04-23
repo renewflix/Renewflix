@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.dei android:layout_gravity="end|center|top" android:id="@id/2131428516" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="24.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintTop_toTopOf="2131429026" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

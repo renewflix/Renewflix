@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131429234" style="@style/2132084423"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131624443" />
+    <include android:id="@id/2131429232" layout="@layout/2131624768" />
+    <FrameLayout android:id="@id/2131429525" android:layout_width="fill_parent" android:layout_height="fill_parent" android:elevation="@dimen/2131165526" />
+    <FrameLayout android:id="@id/2131427496" android:background="@color/2131100841" android:paddingTop="?netflixActionBarSize" android:paddingBottom="@dimen/2131166475" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/2131165967" android:paddingEnd="@dimen/2131165967" />
+    <FrameLayout android:id="@id/2131427946" android:layout_width="fill_parent" android:layout_height="fill_parent" android:elevation="@dimen/2131165526" />
+</FrameLayout>

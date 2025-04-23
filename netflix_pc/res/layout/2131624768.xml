@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:visibility="gone" android:fillViewport="true" style="@style/2132084423"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingTop="?netflixActionBarSize" android:paddingBottom="?netflixActionBarSize" style="@style/2132084423">
+        <Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <o.dei android:layout_gravity="center_horizontal" android:id="@id/2131429235" android:paddingTop="@dimen/2131165529" android:paddingBottom="@dimen/2131165444" android:text="@string/2132019254" style="@style/2132083395" />
+        <o.hZR android:gravity="top" android:layout_gravity="center_horizontal" android:id="@id/2131429233" android:layout_width="wrap_content" android:layout_height="wrap_content" android:listSelector="@drawable/2131252065" android:stretchMode="none" android:columnWidth="@dimen/2131166815" android:numColumns="1" />
+        <Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</ScrollView>

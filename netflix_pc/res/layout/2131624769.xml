@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:fitsSystemWindows="true" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131428576" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="40.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131429207">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428575" android:visibility="invisible" android:layout_width="@dimen/2131166937" android:layout_height="@dimen/2131166937" />
+        <ProgressBar android:id="@id/2131428174" android:visibility="invisible" android:layout_width="@dimen/2131166937" android:layout_height="@dimen/2131166937" android:indeterminate="true" android:indeterminateOnly="true" android:indeterminateTint="#ff0870e6" style="?android:progressBarStyle" />
+    </FrameLayout>
+    <ViewStub android:id="@id/2131429588" android:inflatedId="@id/2131429587" android:layout_width="0.0dip" android:layout_height="0.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@id/2131429207" android:layout_width="@dimen/2131166935" android:layout_height="@dimen/2131166935" android:scaleType="centerCrop" android:adjustViewBounds="true" android:translationZ="36.0dip" layout_constraintBottom_toTopOf="@id/2131428576" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" layout_constraintVertical_chainStyle="2" roundedCornerRadius="@dimen/2131165931" style="@style/2132084020" />
+</o.aaf>

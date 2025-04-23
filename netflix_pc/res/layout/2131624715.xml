@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.hub android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/2131166796"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginEnd="@dimen/2131165529">
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:layout_marginEnd="@dimen/2131165529">
+            <o.dei android:textSize="@dimen/2131166960" android:id="@id/2131429329" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132019114" android:layout_weight="0.45" android:paddingEnd="@dimen/2131165444" />
+            <o.def android:id="@id/2131429328" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132017557" android:layout_marginEnd="@dimen/2131165444" style="@style/2132083247"
+              xmlns:android="http://schemas.android.com/apk/res/android" />
+        </LinearLayout>
+    </RelativeLayout>
+</o.hub>

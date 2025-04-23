@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:soundEffectsEnabled="false" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textSize="20.0sp" android:layout_gravity="center" android:id="@id/2131428515" android:layout_width="wrap_content" android:layout_height="wrap_content" android:soundEffectsEnabled="false" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@id/2131428484" android:background="@color/2131101989" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="@color/2131101989" android:soundEffectsEnabled="false" />
+</FrameLayout>

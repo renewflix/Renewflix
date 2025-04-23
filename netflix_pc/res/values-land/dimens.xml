@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="2131165186">48.0dip</dimen>
+    <dimen name="2131165423">100.0dip</dimen>
+    <dimen name="2131165424">100.0dip</dimen>
+    <dimen name="2131165428">10.0dip</dimen>
+    <dimen name="2131165446">350.0dip</dimen>
+    <item type="dimen" name="2131165900">@dimen/2131167063</item>
+    <dimen name="2131165901">620.0dip</dimen>
+    <dimen name="2131166409">450.0dip</dimen>
+    <dimen name="2131166410">600.0dip</dimen>
+    <dimen name="2131166482">61.0dip</dimen>
+    <dimen name="2131166483">18.0dip</dimen>
+    <dimen name="2131166484">132.0dip</dimen>
+    <dimen name="2131166493">24.0dip</dimen>
+    <dimen name="2131166496">24.0dip</dimen>
+    <dimen name="2131166547">20.0dip</dimen>
+    <dimen name="2131166549">4.0dip</dimen>
+    <dimen name="2131166553">96.0dip</dimen>
+    <dimen name="2131166556">0.0dip</dimen>
+    <dimen name="2131166557">0.0dip</dimen>
+    <dimen name="2131166558">104.0dip</dimen>
+    <dimen name="2131166566">68.0dip</dimen>
+    <dimen name="2131166569">64.0dip</dimen>
+    <dimen name="2131166571">24.0dip</dimen>
+    <dimen name="2131166572">32.0dip</dimen>
+    <item type="dimen" name="2131166949">0.33</item>
+    <item type="dimen" name="2131166950">0.4</item>
+    <dimen name="2131166953">460.0dip</dimen>
+</resources>

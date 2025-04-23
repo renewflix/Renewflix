@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/2131427820" android:background="@color/2131099772" android:paddingTop="@dimen/2131165403" android:paddingBottom="@dimen/2131165402" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/2131427819" android:paddingBottom="@dimen/2131165405" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/2131427830" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <ImageView android:layout_gravity="center" android:id="@id/2131427831" android:background="@drawable/2131252062" android:padding="@dimen/2131165400" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131250502" android:scaleType="center" android:contentDescription="@string/2132018708" />
+            <TextView android:layout_gravity="center" android:id="@id/2131427832" android:background="@drawable/2131252062" android:focusable="true" android:clickable="true" android:layout_marginTop="@dimen/2131165401" android:text="@string/2132018708" style="@style/2132083019" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/2131427827" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:paddingStart="@dimen/2131165404">
+            <ImageView android:layout_gravity="center" android:id="@id/2131427828" android:background="@drawable/2131252062" android:padding="@dimen/2131165400" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131250255" android:scaleType="center" android:onClick="performAction" android:contentDescription="@string/2132018685" />
+            <TextView android:layout_gravity="center" android:id="@id/2131427829" android:background="@drawable/2131252062" android:focusable="true" android:clickable="true" android:layout_marginTop="@dimen/2131165401" android:text="@string/2132018685" android:onClick="performAction" style="@style/2132083019" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/2131427823" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:paddingEnd="@dimen/2131165404">
+            <ImageView android:layout_gravity="center" android:id="@id/2131427824" android:background="@drawable/2131252062" android:padding="@dimen/2131165400" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131247390" android:scaleType="center" android:onClick="performAction" android:contentDescription="@string/2132018684" />
+            <TextView android:layout_gravity="center" android:id="@id/2131427825" android:background="@drawable/2131252062" android:focusable="true" android:clickable="true" android:layout_marginTop="@dimen/2131165401" android:text="@string/2132018684" android:onClick="performAction" style="@style/2132083019" />
+        </LinearLayout>
+    </LinearLayout>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton android:layout_gravity="center" android:id="@id/2131427816" android:focusable="true" android:clickable="true" android:layout_marginTop="@dimen/2131165413" android:layout_marginBottom="@dimen/2131165412" android:src="@null" android:onClick="performAction" android:contentDescription="@string/2132017274" style="@style/2132083018" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.def android:textSize="@dimen/2131166985" android:id="@id/2131427606" android:paddingTop="@dimen/2131166475" android:paddingBottom="@dimen/2131166475" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/2131165529" android:paddingEnd="@dimen/2131165529" style="@style/2132083257" />
+</FrameLayout>

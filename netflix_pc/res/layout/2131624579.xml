@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.cZ android:orientation="vertical" android:background="@color/2131099709" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166443" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@color/2131099709" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:orientation="vertical" android:id="@id/2131428375" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/2132017251">
+            <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@id/2131428377" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitXY" android:importantForAccessibility="no" android:elevation="16.0dip" />
+            <ImageView android:id="@id/2131428378" android:background="@drawable/2131252068" android:paddingBottom="12.0dip" android:focusable="true" android:visibility="gone" android:layout_width="36.0dip" android:layout_height="36.0dip" android:src="@drawable/2131247378" android:layout_alignParentBottom="true" android:importantForAccessibility="no" android:paddingEnd="12.0dip" android:layout_marginEnd="10.0dip" android:layout_alignParentEnd="true" android:elevation="16.0dip" tint="@color/2131102007" />
+        </RelativeLayout>
+        <o.dei android:id="@id/2131428380" android:layout_marginTop="@dimen/2131165967" android:layout_marginBottom="@dimen/2131166475" android:maxLines="3" android:layout_below="@id/2131428375" android:layout_marginStart="@dimen/2131166443" android:layout_marginEnd="@dimen/2131166443" style="@style/2132083103" />
+        <o.hhX android:id="@id/2131428877" android:paddingBottom="@dimen/2131166475" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/2131428380" />
+    </RelativeLayout>
+</o.cZ>

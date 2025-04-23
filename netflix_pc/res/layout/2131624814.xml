@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131429412" android:background="?selectionListBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center" android:id="@id/2131429403" android:paddingTop="@dimen/2131165626" android:paddingBottom="@dimen/2131165625" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+    <include layout="@layout/2131624443" />
+    <ImageView android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="@dimen/2131166872" android:src="@drawable/2131252072" />
+    <ImageButton android:layout_gravity="bottom|center" android:id="@id/close_button" android:background="@drawable/2131252073" android:layout_width="@dimen/2131165382" android:layout_height="@dimen/2131165382" android:layout_marginBottom="20.0dip" android:contentDescription="@string/2132018587" srcCompat="@drawable/2131247329" />
+</FrameLayout>

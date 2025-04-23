@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131427942" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <o.dei android:id="@id/2131428178" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132017409" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132082699" />
+        <View android:id="@id/2131427971" android:background="@color/2131099884" android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_marginTop="20.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428178" />
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/2131428180" android:layout_width="0.0dip" android:layout_height="wrap_content" android:overScrollMode="never" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131427971" />
+    </o.aaf>
+</FrameLayout>

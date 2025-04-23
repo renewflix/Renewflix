@@ -1,0 +1,46 @@
+.class public final synthetic Lo/gWk;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/iRa;
+
+
+# instance fields
+.field private synthetic a:Landroid/webkit/WebResourceError;
+
+.field private synthetic e:Lo/gVV;
+
+
+# direct methods
+.method public synthetic constructor <init>(Landroid/webkit/WebResourceError;Lo/gVV;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lo/gWk;->a:Landroid/webkit/WebResourceError;
+
+    iput-object p2, p0, Lo/gWk;->e:Lo/gVV;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 2
+
+    .line 0
+    iget-object v0, p0, Lo/gWk;->a:Landroid/webkit/WebResourceError;
+
+    iget-object v1, p0, Lo/gWk;->e:Lo/gVV;
+
+    check-cast p1, Lo/gVT;
+
+    invoke-static {v0, v1, p1}, Lo/gVV;->bqB_(Landroid/webkit/WebResourceError;Lo/gVV;Lo/gVT;)Lo/gVT;
+
+    move-result-object p1
+
+    return-object p1
+.end method

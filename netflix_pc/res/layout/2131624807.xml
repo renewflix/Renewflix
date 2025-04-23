@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131429366" style="@style/2132084423"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131429371" android:visibility="gone" style="@style/2132084423" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/2131166850" android:layout_marginHorizontal="@dimen/2131166849" layout="@layout/2131624825" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/2131624805" />
+    <include layout="@layout/2131624443" />
+</FrameLayout>

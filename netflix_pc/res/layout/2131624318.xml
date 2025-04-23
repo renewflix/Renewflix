@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="start" android:orientation="vertical" android:id="@id/2131429313" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/2131166444" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428313" android:layout_width="wrap_content" android:layout_height="@dimen/2131166704" android:layout_marginTop="@dimen/2131165529" android:src="@drawable/2131247267" android:adjustViewBounds="true" android:contentDescription="@string/2132018209" />
+    <o.dei android:textColor="@color/2131100850" android:id="@id/2131428315" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165444" style="@style/2132083366" />
+    <o.dei android:textSize="@dimen/2131166992" android:textColor="@color/2131100850" android:gravity="top" android:id="@id/2131428311" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165444" android:lineSpacingExtra="4.0sp" />
+</LinearLayout>

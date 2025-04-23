@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.ddX android:layout_gravity="end" android:id="@id/2131427606" android:padding="@dimen/2131166443" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132017682" nb_borderlessRipple="true" nb_rippleColor="@color/2131101977" nb_tintIcon="false" tint="@color/2131102007" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

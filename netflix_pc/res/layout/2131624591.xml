@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textColor="@color/2131100331" android:id="@id/2131428892" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132019702" android:importantForAccessibility="no" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083358" />
+    <o.dei android:textColor="@color/2131100313" android:id="@id/2131428895" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019699" android:drawablePadding="@dimen/2131166982" android:contentDescription="@string/2132019676" android:drawableEnd="@drawable/2131247846" android:drawableTint="@color/2131100313" layout_constraintEnd_toEndOf="2131429026" layout_constraintHorizontal_bias="0.0" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428892" style="@style/2132083364" />
+</o.aaf>

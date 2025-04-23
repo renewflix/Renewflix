@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131429201" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.def android:textStyle="bold" android:ellipsize="end" android:id="@id/2131428459" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:drawableStart="@drawable/2131248399" android:layout_marginStart="0.0dip" android:layout_marginEnd="0.0dip" style="@style/2132083238" />
+    <o.def android:textSize="16.0sp" android:textStyle="bold" android:ellipsize="end" android:id="@id/2131428605" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132020111" android:maxLines="1" android:drawableStart="@drawable/2131248635" android:layout_marginStart="0.0dip" android:layout_marginEnd="0.0dip" nb_iconColor="@color/2131102007" style="@style/2132083242" />
+</FrameLayout>

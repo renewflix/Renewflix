@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/2131232507" xmlns:aapt="http://schemas.android.com/aapt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="_R_G_L_7_G_D_0_P_0" android:animation="@drawable/2131232574" />
+    <target android:name="_R_G_L_7_G_D_0_P_0" android:animation="@drawable/2131232577" />
+    <target android:name="_R_G_L_7_G_D_0_P_0" android:animation="@drawable/2131232511" />
+    <target android:name="_R_G_L_6_G_D_0_P_0" android:animation="@drawable/2131232514" />
+    <target android:name="_R_G_L_6_G_D_0_P_0" android:animation="@drawable/2131232516" />
+    <target android:name="_R_G_L_6_G_D_0_P_0" android:animation="@drawable/2131232520" />
+    <target android:name="_R_G_L_5_G_D_0_P_0" android:animation="@drawable/2131232523" />
+    <target android:name="_R_G_L_5_G_D_0_P_0" android:animation="@drawable/2131232525" />
+    <target android:name="_R_G_L_5_G_D_0_P_0" android:animation="@drawable/2131232528" />
+    <target android:name="_R_G_L_4_G_D_0_P_0" android:animation="@drawable/2131232532" />
+    <target android:name="_R_G_L_4_G_D_0_P_0" android:animation="@drawable/2131232534" />
+    <target android:name="_R_G_L_4_G_D_0_P_0" android:animation="@drawable/2131232537" />
+    <target android:name="_R_G_L_3_G_D_0_P_0" android:animation="@drawable/2131232540" />
+    <target android:name="_R_G_L_3_G_D_0_P_0" android:animation="@drawable/2131232543" />
+    <target android:name="_R_G_L_3_G_D_0_P_0" android:animation="@drawable/2131232546" />
+    <target android:name="_R_G_L_2_G_D_0_P_0" android:animation="@drawable/2131232549" />
+    <target android:name="_R_G_L_2_G_D_0_P_0" android:animation="@drawable/2131232551" />
+    <target android:name="_R_G_L_2_G_D_0_P_0" android:animation="@drawable/2131232555" />
+    <target android:name="_R_G_L_1_G_D_0_P_0" android:animation="@drawable/2131232558" />
+    <target android:name="_R_G_L_1_G_D_0_P_0" android:animation="@drawable/2131232560" />
+    <target android:name="_R_G_L_1_G_D_0_P_0" android:animation="@drawable/2131232564" />
+    <target android:name="_R_G_L_0_G_D_0_P_0" android:animation="@drawable/2131232567" />
+    <target android:name="_R_G_L_0_G_D_0_P_0" android:animation="@drawable/2131232569" />
+    <target android:name="_R_G_L_0_G_D_0_P_0" android:animation="@drawable/2131232572" />
+</animated-vector>

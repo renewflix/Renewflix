@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.del android:textSize="@dimen/2131166964" android:id="@id/2131429085" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131165444" android:text="@string/2132019038" android:layout_marginStart="@dimen/2131166475" android:layout_marginEnd="@dimen/2131166475" nb_buttonColor="?dp_play_button_bg_color" nb_textColor="?dp_play_button_text_color" style="@style/2132083239" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

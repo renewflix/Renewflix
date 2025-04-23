@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/2131101989" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="4.0dip" android:foreground="@color/2131101989" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131428491" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428490" android:background="@color/2131101989" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" />
+    </FrameLayout>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428492" android:background="@color/2131101989" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="@color/2131101989" android:scaleType="centerCrop" android:adjustViewBounds="true" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428493" android:background="@color/2131101989" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="@color/2131101989" android:scaleType="centerCrop" android:adjustViewBounds="true" />
+    <o.dei android:layout_gravity="start|center|top" android:id="@id/2131428919" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <o.dei android:textSize="12.0sp" android:gravity="center" android:layout_gravity="bottom|center" android:id="@id/2131428918" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" />
+</FrameLayout>

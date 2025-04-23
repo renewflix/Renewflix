@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131428543" android:padding="@dimen/2131165979" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/2131429742" android:inflatedId="@id/2131429742" android:layout_width="fill_parent" android:layout_height="132.0dip" layout_constraintTop_toTopOf="2131429026" />
+    <ViewStub android:id="@id/2131428307" android:clipChildren="true" android:inflatedId="@id/2131428307" android:layout_width="fill_parent" android:layout_height="160.0dip" android:layout_marginBottom="@dimen/2131165941" android:layout_marginStart="@dimen/2131165941" android:layout_marginEnd="@dimen/2131165941" layout_constraintBottom_toTopOf="@id/2131428286" layout_constraintTop_toBottomOf="@id/2131429742" />
+    <ViewStub android:id="@id/2131428286" android:inflatedId="@id/2131428286" android:layout_width="fill_parent" android:layout_height="64.0dip" android:layout_marginStart="@dimen/2131165941" android:layout_marginEnd="@dimen/2131165941" layout_constraintBottom_toBottomOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428307" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429018" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" roundedCornerRadius="@dimen/2131165934" roundingBorderColor="@color/2131101981" roundingBorderWidth="@dimen/2131165303" />
+</o.aaf>

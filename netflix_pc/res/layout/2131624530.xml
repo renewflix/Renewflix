@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/2131166440" android:paddingTop="@dimen/2131166441" android:paddingRight="@dimen/2131166439" android:paddingBottom="@dimen/2131166438" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="32.0dip" android:paddingStart="@dimen/2131166440" android:paddingEnd="@dimen/2131166439"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/2131428818" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginRight="24.0dip" android:layout_marginEnd="24.0dip" />
+    <ProgressBar android:id="@id/2131428820" android:visibility="gone" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginRight="24.0dip" android:indeterminate="true" android:layout_marginEnd="24.0dip" style="?android:progressBarStyle" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="1.0dip">
+        <TextView android:textAppearance="@style/2132083729" android:ellipsize="marquee" android:gravity="start" android:id="@id/2131428819" android:layout_width="fill_parent" android:layout_height="32.0dip" android:singleLine="true" android:textAlignment="viewStart" />
+        <TextView android:textAppearance="@style/2132083730" android:ellipsize="marquee" android:gravity="start" android:id="@id/2131428817" android:layout_width="fill_parent" android:layout_height="24.0dip" android:singleLine="true" android:textAlignment="viewStart" />
+    </LinearLayout>
+</LinearLayout>

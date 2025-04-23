@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.def android:id="@id/2131427635" android:layout_marginTop="@dimen/2131167064" android:layout_marginBottom="@dimen/2131167064" style="@style/2132083005" />
+</LinearLayout>

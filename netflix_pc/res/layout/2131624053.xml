@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textColor="?textColorWhiteAndInvertedForKids" android:ellipsize="end" android:id="@id/2131427949" android:padding="@dimen/2131166443" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="2" android:layout_weight="1.0" style="@style/2132083366" />
+    <ImageButton android:layout_gravity="center_vertical" android:id="@id/close_button" android:background="@null" android:padding="@dimen/2131166443" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131250632" android:contentDescription="@string/2132017200" />
+</LinearLayout>

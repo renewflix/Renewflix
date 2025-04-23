@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.cbT android:gravity="center" android:id="@id/2131428775" android:addStatesFromChildren="false" android:descendantFocusability="afterDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:horizontalSpacing="@dimen/2131166560" android:verticalSpacing="@dimen/2131166561" android:defaultFocusHighlightEnabled="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

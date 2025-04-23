@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/2131429097" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/2131166882" android:layout_marginEnd="@dimen/2131166882">
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/2131429096" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <o.def android:id="@id/2131428374" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132018715" style="@style/2132083100" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

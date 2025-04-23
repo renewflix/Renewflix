@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083111">
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="2132083112">
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+    <style name="2132083113">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+</resources>

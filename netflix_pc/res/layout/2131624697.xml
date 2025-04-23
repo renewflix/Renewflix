@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textColor="@color/2131102007" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131166784" android:text="@string/2132018880" style="@style/2132083395" />
+    <o.def android:textSize="@dimen/2131166783" android:id="@id/2131429182" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/2131165549" android:text="@string/2132019056" android:contentDescription="@string/2132019056" android:textAllCaps="false" android:drawableStart="@null" style="@style/2132083257" />
+    <o.def android:id="@id/2131429184" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/2131165549" android:text="@string/2132019060" android:contentDescription="@string/2132019060" android:drawableStart="@null" style="@style/2132083317" />
+    <o.def android:id="@id/2131429188" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/2131165549" android:text="@string/2132019067" android:contentDescription="@string/2132019067" android:drawableStart="@null" style="@style/2132083317" />
+</merge>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.dei android:textColor="?unselectedProfileTextColor" android:ellipsize="end" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132017397" android:maxLines="3" android:importantForAccessibility="no" style="@style/2132083390"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

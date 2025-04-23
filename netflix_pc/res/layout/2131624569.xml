@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/2131428995" android:background="?scrimBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+    <o.ccx android:id="@id/2131428994" android:focusable="true" android:focusableInTouchMode="true" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/2131428987" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:id="@id/2131428997" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <FrameLayout android:id="@id/2131428993" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <FrameLayout android:id="@id/2131428999" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <o.cbh android:layout_gravity="end" android:id="@id/2131428991" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" navigationIcon="@null" style="?materialSearchViewToolbarStyle" />
+                <o.cbh android:id="@id/2131428998" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" navigationContentDescription="@string/2132020388" style="?materialSearchViewToolbarStyle">
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="?materialSearchViewToolbarHeight">
+                        <TextView android:id="@id/2131428996" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?materialSearchViewPrefixStyle" />
+                        <EditText android:id="@id/2131428992" android:background="@null" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:inputType="textNoSuggestions" android:imeOptions="actionSearch|flagNoExtractUi" android:textDirection="firstStrong" android:importantForAutofill="no" />
+                        <ImageButton android:id="@id/2131428988" android:background="?actionBarItemBackground" android:padding="16.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132020387" srcCompat="@drawable/2131247367" />
+                    </LinearLayout>
+                </o.cbh>
+            </FrameLayout>
+            <View android:id="@id/2131428990" android:background="?colorOutline" android:layout_width="fill_parent" android:layout_height="@dimen/2131166310" />
+            <o.ccP android:id="@id/2131428989" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </LinearLayout>
+    </o.ccx>
+</merge>

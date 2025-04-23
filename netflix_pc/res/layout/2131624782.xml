@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/2131429352" android:background="@color/2131101877" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?netflixActionBarSize"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/2131429282" android:paddingTop="@dimen/2131166917" android:paddingBottom="@dimen/2131166896" android:layout_height="wrap_content" android:paddingStart="@dimen/2131166897" android:paddingEnd="@dimen/2131166897" style="@style/2132083091">
+        <com.netflix.mediaclient.acquisition.components.banner.SignupBannerView android:id="@id/2131429906" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131166887" style="@style/2132083583" />
+        <com.netflix.mediaclient.acquisition.components.banner.SignupBannerView android:id="@id/2131429818" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131166887" style="@style/2132083565" />
+        <com.netflix.mediaclient.acquisition.components.heading.SignupHeadingView android:id="@id/2131429449" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <include layout="@layout/2131624784" />
+        <include android:id="@id/2131429283" layout="@layout/2131624783" />
+        <com.netflix.mediaclient.acquisition.components.signupButton.NetflixSignupButton android:id="@id/2131429281" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166905" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/2131428944" android:background="@color/2131099711" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_anchorGravity="APKTOOL_MISSING_0x7f0b00ea" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textColor="@color/2131102007" android:layout_gravity="start|center" android:padding="@dimen/2131165529" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132018941" android:maxLines="1" android:layout_alignParentStart="true" />
+    <o.dei android:textColor="@color/2131102007" android:background="@drawable/2131252068" android:padding="@dimen/2131165529" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132018942" android:maxLines="1" android:layout_alignParentEnd="true" />
+</RelativeLayout>

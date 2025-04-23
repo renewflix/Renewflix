@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/2131101877" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?netflixActionBarSize" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/2131101900" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+    <androidx.core.widget.NestedScrollView android:id="@id/2131429352" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:background="@color/2131102007" android:paddingTop="12.0dip" android:paddingBottom="250.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/2131167054" android:paddingEnd="@dimen/2131167054">
+            <com.netflix.mediaclient.acquisition.components.banner.SignupBannerView android:id="@id/2131429906" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131166887" style="@style/2132083583" />
+            <o.dei android:id="@id/2131429844" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132017429" style="@style/2132083279" />
+            <com.netflix.mediaclient.acquisition.components.expandingDropDownView.ExpandingDropDownView android:id="@id/2131429843" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" expandingFormLayout="@layout/2131624896" expandingHeaderText="@string/2132017433" />
+            <com.netflix.mediaclient.acquisition.components.expandingDropDownView.ExpandingDropDownView android:id="@id/2131429460" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" expandingFormLayout="@layout/2131624897" expandingHeaderText="@string/2132017431" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

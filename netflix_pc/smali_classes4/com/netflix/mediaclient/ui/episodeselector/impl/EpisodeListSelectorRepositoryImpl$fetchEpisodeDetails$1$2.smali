@@ -1,0 +1,113 @@
+.class public final Lcom/netflix/mediaclient/ui/episodeselector/impl/EpisodeListSelectorRepositoryImpl$fetchEpisodeDetails$1$2;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lcom/netflix/model/leafs/Bookmark;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/netflix/mediaclient/ui/episodeselector/impl/EpisodeListSelectorRepositoryImpl$fetchEpisodeDetails$1;->invokeSuspend(Ljava/lang/Object;)Ljava/lang/Object;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = null
+.end annotation
+
+
+# instance fields
+.field private b:J
+
+.field private c:J
+
+
+# direct methods
+.method constructor <init>(Lo/hSs;)V
+    .locals 2
+
+    .line 63
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 64
+    invoke-virtual {p1}, Lo/hSs;->an_()J
+
+    move-result-wide v0
+
+    iput-wide v0, p0, Lcom/netflix/mediaclient/ui/episodeselector/impl/EpisodeListSelectorRepositoryImpl$fetchEpisodeDetails$1$2;->c:J
+
+    .line 65
+    invoke-virtual {p1}, Lo/hSs;->E()J
+
+    move-result-wide v0
+
+    iput-wide v0, p0, Lcom/netflix/mediaclient/ui/episodeselector/impl/EpisodeListSelectorRepositoryImpl$fetchEpisodeDetails$1$2;->b:J
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final getBookmarkPositionMs()J
+    .locals 2
+
+    .line 64
+    iget-wide v0, p0, Lcom/netflix/mediaclient/ui/episodeselector/impl/EpisodeListSelectorRepositoryImpl$fetchEpisodeDetails$1$2;->c:J
+
+    return-wide v0
+.end method
+
+.method public final getInteractiveProgress()Ljava/lang/Integer;
+    .locals 2
+
+    .line 67
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-direct {v0}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v1, "An operation is not implemented: "
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    const-string v1, "Not yet implemented"
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    new-instance v1, Lkotlin/NotImplementedError;
+
+    invoke-virtual {v0}, Ljava/lang/Object;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-direct {v1, v0}, Lkotlin/NotImplementedError;-><init>(Ljava/lang/String;)V
+
+    throw v1
+.end method
+
+.method public final getLastModified()J
+    .locals 2
+
+    .line 65
+    iget-wide v0, p0, Lcom/netflix/mediaclient/ui/episodeselector/impl/EpisodeListSelectorRepositoryImpl$fetchEpisodeDetails$1$2;->b:J
+
+    return-wide v0
+.end method
+
+.method public final setBookmarkPositionMs(J)V
+    .locals 0
+
+    .line 64
+    iput-wide p1, p0, Lcom/netflix/mediaclient/ui/episodeselector/impl/EpisodeListSelectorRepositoryImpl$fetchEpisodeDetails$1$2;->c:J
+
+    return-void
+.end method
+
+.method public final setLastModified(J)V
+    .locals 0
+
+    .line 65
+    iput-wide p1, p0, Lcom/netflix/mediaclient/ui/episodeselector/impl/EpisodeListSelectorRepositoryImpl$fetchEpisodeDetails$1$2;->b:J
+
+    return-void
+.end method

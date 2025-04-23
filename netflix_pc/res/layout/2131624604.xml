@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/2131428903" android:paddingTop="20.0dip" android:layout_width="0.0dip" android:layout_height="0.0dip" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/2131428902" android:background="@drawable/2131250709" android:layout_width="48.0dip" android:layout_height="48.0dip">
+        <ViewStub android:layout_gravity="center" android:id="@id/2131428904" android:layout_width="24.0dip" android:layout_height="24.0dip" />
+    </FrameLayout>
+    <ViewStub android:id="@id/2131427998" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131429315" android:padding="@dimen/2131166443" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/2131429404" android:visibility="invisible" android:layout_width="@dimen/2131166698" android:layout_height="@dimen/2131166698" android:src="@drawable/2131247902" android:importantForAccessibility="no" layout_constraintBottom_toBottomOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" tint="@color/2131100313" />
+    <o.dei android:textColor="@color/2131100313" android:id="@id/2131429706" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132019702" android:layout_marginStart="@dimen/2131165444" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toEndOf="@id/2131429404" layout_constraintTop_toTopOf="2131429026" style="@style/2132083357" />
+</o.aaf>

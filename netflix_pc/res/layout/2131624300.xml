@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131427958" android:layout_width="fill_parent" android:layout_height="fill_parent" android:elevation="0.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131429432" android:background="@drawable/2131250635" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:transitionGroup="true" android:elevation="8.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026">
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/2131624298" />
+    </FrameLayout>
+</o.aaf>

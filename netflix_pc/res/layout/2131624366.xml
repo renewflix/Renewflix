@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.deb android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/2131252066" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131427686" android:background="@drawable/2131247302" android:focusable="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:src="@drawable/2131252066" android:scaleType="fitEnd" android:importantForAccessibility="no" layout_constraintBaseline_toBaselineOf="2131429026" layout_constraintDimensionRatio="H,300:344" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" style="@style/2132084020" />
+    <o.dei android:textColor="@color/2131099882" android:ellipsize="end" android:gravity="center_horizontal" android:id="@id/2131429706" android:paddingTop="@dimen/2131166699" android:focusable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="2" android:layout_marginHorizontal="@dimen/2131166699" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131427686" style="@style/2132083380" />
+</o.deb>

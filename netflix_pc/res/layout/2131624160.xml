@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="start|center" android:id="@id/2131429385" android:padding="@dimen/2131165444" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textSize="@dimen/2131165520" android:textColor="?actionMenuTextColor" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/2131429376" android:background="@drawable/2131252055" android:paddingTop="@dimen/2131165444" android:paddingBottom="@dimen/2131165444" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:drawablePadding="@dimen/2131165519" android:paddingStart="@dimen/2131165529" android:paddingEnd="@dimen/2131165529" style="@style/2132083356" />
+</FrameLayout>

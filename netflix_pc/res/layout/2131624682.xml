@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/2131429127" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:gravity="center" android:id="@id/2131428649" android:background="?selectableItemBackgroundBorderless" android:visibility="visible" android:layout_width="@dimen/2131165971" android:layout_height="@dimen/2131165971" android:src="@drawable/2131246700" android:contentDescription="@string/2132017365" />
+    <o.def android:id="@id/2131429805" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="48.0dip" android:text="@string/2132019261" android:contentDescription="@string/2132017366" android:drawableStart="@drawable/2131250211" style="?primarySmallPillButtonStyle" />
+    <o.dei android:textSize="16.0sp" android:textStyle="bold" android:textColor="@color/2131102007" android:gravity="fill" android:layout_width="wrap_content" android:layout_height="28.0dip" android:text="@string/2132018893" android:includeFontPadding="false" style="@style/2132083232" />
+    <o.dei android:textSize="10.0sp" android:textColor="#ffb3b3b3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019201" android:importantForAccessibility="no" />
+</LinearLayout>

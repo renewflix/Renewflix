@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <size android:height="24.0dip" android:width="24.0dip" />
+            <solid android:color="?menu_dialog_sheet_close_bg" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/2131250492" android:left="5.0dip" android:top="5.0dip" android:right="5.0dip" android:bottom="5.0dip" />
+</layer-list>

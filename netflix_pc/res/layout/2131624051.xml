@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.def android:textSize="@dimen/2131166964" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/2131428552" android:padding="@dimen/2131166443" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawablePadding="@dimen/2131166444" nb_iconColor="?android:textColorPrimary" nb_textColor="?android:textColorPrimary" style="NetflixButton.Flat.Light.IconJustified" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

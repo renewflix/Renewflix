@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.hOZ android:id="@id/2131429102" android:layout_width="@dimen/2131165321" android:layout_height="@dimen/2131165326" android:rotation="270.0" android:layoutDirection="ltr" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SeekBar android:id="@id/2131429104" android:background="@null" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginLeft="@dimen/2131165322" android:maxHeight="@dimen/2131165325" android:max="100" android:progressDrawable="@drawable/2131246579" android:thumb="@null" android:contentDescription="@string/2132017219" android:mirrorForRtl="false" layout_constraintBottom_toBottomOf="2131429026" layout_constraintLeft_toLeftOf="2131429026" layout_constraintRight_toLeftOf="@id/2131429103" layout_constraintTop_toTopOf="2131429026" />
+    <View android:id="@id/2131429103" android:background="@drawable/2131250209" android:layout_width="26.0dip" android:layout_height="26.0dip" android:layout_marginLeft="@dimen/2131165322" android:importantForAccessibility="no" layout_constraintBottom_toBottomOf="2131429026" layout_constraintRight_toRightOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+</o.hOZ>

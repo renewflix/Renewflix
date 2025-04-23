@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083013">
+        <item name="android:layout_width">500.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">40.0dip</item>
+    </style>
+    <style name="2132083040">
+        <item name="layout_constraintWidth_max">500.0dip</item>
+    </style>
+    <style name="2132083199">
+        <item name="layout_constraintWidth_max">500.0dip</item>
+    </style>
+    <style name="2132083541">
+        <item name="android:textSize">@dimen/2131166912</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/2131101920</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="2132083543">
+        <item name="android:textSize">@dimen/2131166920</item>
+        <item name="android:textColor">@color/2131101921</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="2132083544">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="2132083545" parent="@style/2132083263">
+        <item name="android:textSize">@dimen/2131166921</item>
+        <item name="android:textColor">@color/2131101920</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="2132083575" parent="@style/2132083574">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="2132083582">
+        <item name="android:layout_width">400.0dip</item>
+        <item name="android:layout_height">400.0dip</item>
+    </style>
+    <style name="2132084109" parent="@style/2132082964">
+        <item name="tabGravity">2131427673</item>
+        <item name="tabMode">1</item>
+    </style>
+</resources>

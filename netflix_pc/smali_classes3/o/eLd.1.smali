@@ -1,0 +1,14 @@
+.class public interface abstract Lo/eLd;
+.super Ljava/lang/Object;
+.source ""
+
+
+# virtual methods
+.method public abstract a(Ljava/lang/String;)V
+.end method
+
+.method public abstract b()V
+.end method
+
+.method public abstract d(Ljava/lang/String;)V
+.end method

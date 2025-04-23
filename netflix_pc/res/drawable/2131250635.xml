@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="?mini_dp_dialog_bg_color" />
+    <corners android:topLeftRadius="@dimen/2131166705" android:topRightRadius="@dimen/2131166705" />
+</shape>

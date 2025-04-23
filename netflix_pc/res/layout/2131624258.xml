@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/2131427778" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" statusBarBackground="@null" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131429744" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/2131428276" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+            <FrameLayout android:id="@id/2131429202" android:layout_weight="1.0" style="@style/2132084423" />
+        </LinearLayout>
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

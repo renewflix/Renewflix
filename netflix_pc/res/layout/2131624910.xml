@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.material.textfield.TextInputLayout android:theme="@style/2132083580" android:id="@id/2131428455" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toEndOf="@id/2131428025" android:layout_alignParentStart="true" style="@style/2132083578">
+        <EditText android:id="@id/2131428035" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/2132019025" android:inputType="phone" android:paddingStart="@dimen/2131166916" style="@style/2132083554" />
+    </com.google.android.material.textfield.TextInputLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/2131428025" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/2131428455" android:layout_alignBottom="@id/2131428455" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@id/2131428411" android:layout_width="24.0dip" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" android:layout_marginStart="@dimen/2131166915" />
+        <o.dei android:textSize="@dimen/2131166961" android:textColor="@color/2131101920" android:gravity="center_vertical" android:id="@id/2131428026" android:layout_width="32.0dip" android:layout_height="fill_parent" android:fontFamily="?netflixBoldFont" android:layout_marginStart="4.0dip" android:layout_marginEnd="4.0dip" />
+        <ImageView android:layout_gravity="center" android:id="@id/2131428024" android:layout_width="10.0dip" android:layout_height="wrap_content" android:layout_marginRight="@dimen/2131166915" android:src="@drawable/2131250538" android:contentDescription="@null" />
+    </LinearLayout>
+    <o.dei android:id="@id/2131428454" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/2131428455" style="@style/2132083558" />
+</merge>

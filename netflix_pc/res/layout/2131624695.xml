@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131429143" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/2131429099" android:background="?selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="@dimen/2131166788" android:layout_height="@dimen/2131166787" android:src="@drawable/2131247747" android:contentDescription="@string/2132017220" android:accessibilityTraversalAfter="@id/2131429139" layout_constraintEnd_toStartOf="@id/2131429141" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" tint="@color/2131100313" />
+    <ImageButton android:id="@id/2131429141" android:background="?selectableItemBackgroundBorderless" android:layout_width="@dimen/2131166788" android:layout_height="@dimen/2131166787" android:src="@drawable/2131249079" android:contentDescription="@string/2132017283" android:accessibilityTraversalAfter="@id/2131429139" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" tint="@color/2131100313" />
+</o.aaf>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/2131165965" android:paddingStart="@dimen/2131165529" android:paddingEnd="24.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:id="@id/2131429521" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@drawable/2131250590" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+    <o.dei android:textSize="@dimen/2131165966" android:textColor="@color/2131101832" android:ellipsize="end" android:id="@id/2131429522" android:layout_width="fill_parent" android:singleLine="true" android:layout_centerVertical="true" android:alpha="@dimen/2131166959" android:paddingStart="@dimen/2131165444" android:layout_toEndOf="@id/2131429521" style="@style/2132083389" />
+</RelativeLayout>

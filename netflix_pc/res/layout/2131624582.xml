@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429261" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@id/2131429262" android:layout_width="216.0dip" android:layout_height="wrap_content" android:adjustViewBounds="true" android:elevation="10.0dip" />
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/2131428293" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131165529">
+            <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428294" android:layout_width="130.0dip" android:layout_height="130.0dip" android:scaleType="centerCrop" android:adjustViewBounds="true" android:importantForAccessibility="no" android:layout_marginHorizontal="4.0dip" foreground="@drawable/2131252066" roundedCornerRadius="@dimen/2131165612" roundingBorderColor="@color/2131101978" roundingBorderWidth="1.0dip" />
+            <o.dei android:textSize="16.0sp" android:textStyle="bold" android:ellipsize="end" android:layout_gravity="center" android:id="@id/2131428296" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165444" android:maxLines="2" android:alpha="0.7" android:layout_marginHorizontal="4.0dip" style="@style/2132083389" />
+        </LinearLayout>
+        <o.dei android:gravity="center_horizontal" android:id="@id/2131429263" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/2131166443" android:layout_marginEnd="@dimen/2131166443" style="@style/2132083363" />
+        <o.dei android:gravity="center_horizontal" android:id="@id/2131429264" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/2131166443" android:layout_marginEnd="@dimen/2131166443" style="@style/2132083363" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/2131429265" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131167064">
+            <o.ddX android:id="@id/2131427806" android:visibility="gone" android:layout_width="@dimen/2131166691" android:layout_height="@dimen/2131166691" android:src="@drawable/2131250527" android:contentDescription="@string/2132017304" android:layout_marginHorizontal="@dimen/2131166443" nb_tintIcon="false" />
+            <o.ddX android:id="@id/2131427807" android:visibility="gone" android:layout_width="@dimen/2131166691" android:layout_height="@dimen/2131166691" android:src="@drawable/2131250530" android:contentDescription="@string/2132017305" android:layout_marginHorizontal="@dimen/2131166443" nb_tintIcon="false" />
+            <o.ddX android:id="@id/2131427808" android:visibility="gone" android:layout_width="@dimen/2131166691" android:layout_height="@dimen/2131166691" android:src="@drawable/2131247393" android:contentDescription="@string/2132017305" android:layout_marginHorizontal="@dimen/2131166443" nb_tintIcon="false" />
+        </LinearLayout>
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@id/2131428645" android:visibility="gone" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_margin="@dimen/2131165529" />
+</FrameLayout>

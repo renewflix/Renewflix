@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="?searchPreQueryItemBackgroundColor" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?android:selectableItemBackground" android:paddingHorizontal="@dimen/2131166443" android:paddingVertical="@dimen/2131166982"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428548" android:layout_width="@dimen/2131166852" android:layout_height="@dimen/2131166851" android:scaleType="centerCrop" android:adjustViewBounds="true" style="@style/2132084020" />
+    <o.dei android:textSize="@dimen/2131166964" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/2131428555" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="2" android:layout_weight="1.0" android:layout_marginHorizontal="@dimen/2131166475" style="@style/2132083378" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/2131428554" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?iconPlayDrawable" />
+</LinearLayout>

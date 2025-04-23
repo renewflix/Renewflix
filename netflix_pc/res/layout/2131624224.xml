@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131428098" style="@style/2132084423"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/2131428097" android:padding="@dimen/2131165529" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <o.dei android:gravity="center" android:layout_gravity="center" android:id="@id/2131428100" android:text="@string/2132018658" style="@style/2132083395" />
+        <o.def android:layout_gravity="center" android:id="@id/2131428101" android:layout_margin="@dimen/2131165444" android:text="@string/2132019112" android:textAllCaps="false" style="@style/2132083214" />
+    </LinearLayout>
+    <o.def android:layout_gravity="bottom|center" android:id="@id/2131428099" android:visibility="gone" android:layout_marginBottom="48.0dip" android:text="@string/2132019831" android:textAllCaps="false" style="@style/2132083233" />
+</FrameLayout>

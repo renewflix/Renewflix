@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@color/2131102007" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.aaf android:id="@id/2131427440" android:padding="@dimen/2131167064" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428407" android:visibility="visible" android:layout_width="60.0dip" android:layout_height="60.0dip" android:importantForAccessibility="no" android:layout_marginEnd="8.0dip" layout_constraintBottom_toTopOf="@id/2131429706" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+        <o.dei android:textSize="@dimen/2131166970" android:textColor="@color/2131099700" android:id="@id/2131429706" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:textAlignment="viewStart" android:paddingStart="@dimen/2131166982" android:paddingEnd="@dimen/2131166982" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428407" style="@style/2132083209" />
+        <o.dei android:textSize="@dimen/2131166974" android:textColor="@color/2131101965" android:id="@id/2131427557" android:paddingBottom="@dimen/2131167064" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165444" android:textAlignment="viewStart" android:paddingStart="@dimen/2131166982" android:paddingEnd="@dimen/2131166982" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131429706" style="@style/2132083263" />
+    </o.aaf>
+</ScrollView>

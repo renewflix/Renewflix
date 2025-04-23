@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.widget.SearchView android:id="@id/2131427399" android:background="@drawable/2131246547" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip" android:transitionName="searchBox" android:closeIcon="@drawable/2131250199" android:searchIcon="@drawable/2131249107" android:voiceIcon="@drawable/2131249171" android:queryBackground="@android:color/transparent" android:submitBackground="@android:color/transparent" />
+    <ProgressBar android:layout_gravity="end|center" android:id="@id/2131427398" android:background="?searchViewBackgroundColor" android:padding="@dimen/2131166443" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:indeterminateOnly="true" style="?android:progressBarStyle" />
+</FrameLayout>

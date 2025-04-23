@@ -1,0 +1,42 @@
+.class public final synthetic Lo/ahl;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# instance fields
+.field public final synthetic b:Landroidx/credentials/exceptions/GetCredentialUnknownException;
+
+.field public final synthetic e:Lo/ahf;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lo/ahf;Landroidx/credentials/exceptions/GetCredentialUnknownException;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lo/ahl;->e:Lo/ahf;
+
+    iput-object p2, p0, Lo/ahl;->b:Landroidx/credentials/exceptions/GetCredentialUnknownException;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final run()V
+    .locals 2
+
+    .line 0
+    iget-object v0, p0, Lo/ahl;->e:Lo/ahf;
+
+    iget-object v1, p0, Lo/ahl;->b:Landroidx/credentials/exceptions/GetCredentialUnknownException;
+
+    invoke-static {v0, v1}, Landroidx/credentials/playservices/controllers/BeginSignIn/CredentialProviderBeginSignInController$handleResponse$6;->c(Lo/ahf;Landroidx/credentials/exceptions/GetCredentialUnknownException;)V
+
+    return-void
+.end method

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <o.bI android:id="@id/2131429472" style="@style/2132083291" />
+        <o.bI android:id="@id/2131429473" style="@style/2132083291" />
+        <o.bI android:id="@id/2131429474" style="@style/2132083291" />
+        <o.bI android:id="@id/2131429475" style="@style/2132083291" />
+    </LinearLayout>
+    <o.dei android:id="@id/2131429056" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="@string/2132020037" style="@style/2132083558" />
+</merge>

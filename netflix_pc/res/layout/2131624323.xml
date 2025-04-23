@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131428418" android:layout_width="@dimen/2131165613" android:layout_height="@dimen/2131165613" android:layout_marginTop="150.0dip" android:layout_marginBottom="@dimen/2131165529" android:layout_marginStart="@dimen/2131166475" layout_constraintBottom_toTopOf="@id/2131429717" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/2131429717" android:layout_width="125.0dip" android:layout_height="32.0dip" android:layout_margin="@dimen/2131165623" android:layout_marginStart="@dimen/2131166475" layout_constraintBottom_toTopOf="@id/2131428760" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/2131428760" android:layout_width="175.0dip" android:layout_height="24.0dip" android:layout_margin="@dimen/2131165623" android:layout_marginStart="@dimen/2131166475" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</o.aaf>

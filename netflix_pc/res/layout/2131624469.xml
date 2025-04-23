@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:id="@id/2131428708" android:layout_width="wrap_content" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.ZE android:orientation="horizontal" android:id="@id/2131428694" android:layout_width="0.0dip" android:layout_height="@dimen/2131166384" constraint_referenced_ids="material_clock_display,material_clock_period_toggle" flow_horizontalGap="@dimen/2131166385" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+    <include android:id="@id/material_clock_display" layout="@layout/2131624459" />
+    <include android:id="@id/material_clock_period_toggle" layout="@layout/2131624461" />
+    <o.cfg android:layout_gravity="center" android:id="@id/2131428695" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="28.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428694" />
+</merge>

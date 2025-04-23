@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.dei android:textColor="@color/2131100313" android:ellipsize="end" android:id="@id/2131429641" android:layout_width="fill_parent" android:layout_marginTop="8.0dip" android:maxLines="3" android:includeFontPadding="false" android:drawablePadding="@dimen/2131165444" android:layout_marginHorizontal="@dimen/2131165623" android:lineHeight="21.0sp" android:lineBreakWordStyle="phrase" style="@style/2132083364"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,51 @@
+.class final synthetic Lcom/netflix/mediaclient/ui/interstitials/impl/InterstitialsImpl$o;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/cac;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/netflix/mediaclient/ui/interstitials/impl/InterstitialsImpl;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1018
+    name = null
+.end annotation
+
+
+# instance fields
+.field private final synthetic b:Lo/iRa;
+
+
+# direct methods
+.method constructor <init>(Lo/iRa;)V
+    .locals 1
+
+    .line 0
+    const-string v0, ""
+
+    invoke-static {p1, v0}, Lo/iRL;->b(Ljava/lang/Object;Ljava/lang/String;)V
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lcom/netflix/mediaclient/ui/interstitials/impl/InterstitialsImpl$o;->b:Lo/iRa;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final synthetic onSuccess(Ljava/lang/Object;)V
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, Lcom/netflix/mediaclient/ui/interstitials/impl/InterstitialsImpl$o;->b:Lo/iRa;
+
+    invoke-interface {v0, p1}, Lo/iRa;->invoke(Ljava/lang/Object;)Ljava/lang/Object;
+
+    return-void
+.end method

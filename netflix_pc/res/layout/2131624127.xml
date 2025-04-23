@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/2131428665" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <o.dei android:id="@id/2131427932" android:layout_margin="@dimen/2131165444" android:text="@string/2132018621" style="@style/2132083395" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_margin="@dimen/2131165444" style="@style/2132084423">
+            <o.dei android:gravity="center" android:layout_gravity="center" android:id="@id/2131427937" android:text="@string/2132019204" android:maxLines="3" style="@style/2132083389" />
+            <ProgressBar android:layout_gravity="center" android:id="@id/2131427931" android:padding="@dimen/2131165444" android:indeterminate="true" android:indeterminateOnly="true" style="@style/2132084428" />
+        </FrameLayout>
+        <o.def android:id="@id/2131427935" android:focusable="true" android:layout_margin="@dimen/2131165444" android:text="@string/2132019181" style="?greyButtonStyle" />
+    </LinearLayout>
+</merge>

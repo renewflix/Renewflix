@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.htZ android:orientation="vertical" android:id="@id/2131429166" android:layout_width="wrap_content" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:paddingBottom="@dimen/2131165444" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132017440" />
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@id/2131429165" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="@dimen/2131165444" android:layout_marginBottom="@dimen/2131165444" android:antialias="true" android:scaleType="centerInside" android:adjustViewBounds="true" android:maxWidth="209.0dip" android:maxHeight="89.0dip" />
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429160" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@color/2131099700" android:antialias="true" android:dither="true" android:scaleType="fitCenter" android:adjustViewBounds="true" android:maxHeight="89.0dip" android:layout_marginEnd="@dimen/2131166800" style="@style/2132084020" />
+    </FrameLayout>
+</o.htZ>

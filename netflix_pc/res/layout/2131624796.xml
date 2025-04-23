@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="end" android:id="@id/2131428432" android:layout_width="24.0dip" android:layout_height="24.0dip" android:contentDescription="@null" tint="@color/2131102007" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

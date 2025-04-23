@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/2131428452" android:background="@drawable/2131252105" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="16.0dip">
+        <ImageView android:id="@id/2131428407" android:background="@drawable/2131246724" android:padding="6.0dip" android:layout_width="34.0dip" android:layout_height="34.0dip" android:scaleType="centerInside" android:importantForAccessibility="no" android:layout_marginEnd="8.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toStartOf="@id/2131428752" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+        <TextView android:textSize="14.0sp" android:textColor="#ff000000" android:id="@id/2131428752" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toEndOf="@id/2131428407" layout_constraintTop_toTopOf="2131429026" />
+        <ImageView android:id="@id/2131428417" android:layout_width="1.0dip" android:layout_height="34.0dip" android:importantForAccessibility="no" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toEndOf="@id/2131428752" layout_constraintTop_toTopOf="2131429026" />
+    </LinearLayout>
+</LinearLayout>

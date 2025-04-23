@@ -1,0 +1,69 @@
+.class public final synthetic Landroidx/compose/ui/focus/FocusOwnerImpl$focusInvalidationManager$1;
+.super Lkotlin/jvm/internal/FunctionReferenceImpl;
+.source ""
+
+# interfaces
+.implements Lo/iQW;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lo/Dw;-><init>(Lo/iRa;Lo/iRk;Lo/iRa;Lo/iQW;Lo/iQW;Lo/iQW;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1011
+    name = null
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Lkotlin/jvm/internal/FunctionReferenceImpl;",
+        "Lo/iQW<",
+        "Lo/iPc;",
+        ">;"
+    }
+.end annotation
+
+
+# direct methods
+.method public constructor <init>(Ljava/lang/Object;)V
+    .locals 7
+
+    const/4 v1, 0x0
+
+    .line 0
+    const-class v3, Lo/Dw;
+
+    const-string v4, "invalidateOwnerFocusState"
+
+    const-string v5, "invalidateOwnerFocusState()V"
+
+    const/4 v6, 0x0
+
+    move-object v0, p0
+
+    move-object v2, p1
+
+    invoke-direct/range {v0 .. v6}, Lkotlin/jvm/internal/FunctionReferenceImpl;-><init>(ILjava/lang/Object;Ljava/lang/Class;Ljava/lang/String;Ljava/lang/String;I)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final synthetic invoke()Ljava/lang/Object;
+    .locals 1
+
+    .line 1072
+    iget-object v0, p0, Lkotlin/jvm/internal/CallableReference;->receiver:Ljava/lang/Object;
+
+    check-cast v0, Lo/Dw;
+
+    invoke-static {v0}, Lo/Dw;->b(Lo/Dw;)V
+
+    .line 72
+    sget-object v0, Lo/iPc;->a:Lo/iPc;
+
+    return-object v0
+.end method

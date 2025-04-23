@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:focusable="true" android:focusableInTouchMode="true" android:transitionGroup="true" style="@style/2132084423"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.hhd android:id="@id/2131428965" android:divider="@null" android:dividerHeight="0.0dip" style="@style/2132084423" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/2131428946" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="@dimen/2131166711">
+        <o.dei android:gravity="center" android:id="@id/2131428947" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019776" style="@style/2132083363" />
+        <o.dei android:gravity="center" android:id="@id/2131428945" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166710" android:text="@string/2132019775" style="@style/2132083379" />
+    </LinearLayout>
+</FrameLayout>

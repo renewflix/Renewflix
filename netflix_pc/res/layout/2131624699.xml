@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131624701" />
+    <LinearLayout android:orientation="vertical" android:id="@id/2131429183" android:background="@drawable/2131250759" android:paddingBottom="@dimen/2131166803" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:paddingStart="@dimen/2131166802" android:paddingEnd="@dimen/2131166802">
+        <o.dei android:id="@id/2131429162" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131166803" style="@style/2132083321" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/2131429167" android:paddingBottom="@dimen/2131166801" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/2131429163" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</merge>

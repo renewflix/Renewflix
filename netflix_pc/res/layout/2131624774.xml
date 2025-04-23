@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/2131429270" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/2131427844" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <o.dei android:gravity="center" android:id="@id/2131427846" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165427" android:layout_marginBottom="@dimen/2131165426" android:text="@string/2132018682" style="@style/2132083029" />
+        <o.dei android:gravity="center_horizontal" android:id="@id/2131427845" android:paddingTop="@dimen/2131165427" android:paddingBottom="@dimen/2131165426" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132018680" android:paddingStart="@dimen/2131165419" android:paddingEnd="@dimen/2131165420" style="@style/2132083028" />
+    </LinearLayout>
+    <o.def android:textSize="@dimen/2131165399" android:layout_gravity="center_horizontal" android:id="@id/2131427818" android:layout_width="wrap_content" android:layout_height="46.0dip" android:layout_marginBottom="@dimen/2131165396" android:minWidth="125.0dip" android:text="@string/2132018670" android:drawablePadding="@dimen/2131165397" android:contentDescription="@string/2132017273" android:drawableStart="@null" android:elevation="2.0dip" style="@style/2132083212" />
+    <o.def android:textSize="@dimen/2131165399" android:layout_gravity="center_horizontal" android:id="@id/2131427838" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="46.0dip" android:layout_marginBottom="@dimen/2131165396" android:minWidth="125.0dip" android:text="@string/2132018671" android:drawablePadding="@dimen/2131165397" android:contentDescription="@string/2132017273" android:drawableStart="@drawable/2131247376" android:elevation="2.0dip" style="@style/2132083212" />
+</LinearLayout>

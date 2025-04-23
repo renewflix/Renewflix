@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.def android:id="@id/2131427606" android:layout_width="0.0dip" android:layout_height="wrap_content" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083190" />
+</o.aaf>

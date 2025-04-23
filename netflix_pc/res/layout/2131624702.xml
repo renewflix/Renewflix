@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.htR android:layout_gravity="bottom" android:id="@id/2131429153" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131624703" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_alignParentBottom="true">
+            <LinearLayout android:gravity="bottom" android:orientation="vertical" android:paddingBottom="@dimen/2131166802" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131166799" android:layout_weight="3.0" android:paddingStart="@dimen/2131166802">
+                <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429168" android:layout_width="wrap_content" android:layout_height="40.0dip" android:scaleType="fitStart" android:adjustViewBounds="true" />
+                <include layout="@layout/2131624716" />
+            </LinearLayout>
+            <Space android:id="@id/2131428758" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="2.0" />
+            <Space android:id="@id/2131428759" android:layout_width="27.0dip" android:layout_height="fill_parent" />
+        </LinearLayout>
+    </RelativeLayout>
+</o.htR>

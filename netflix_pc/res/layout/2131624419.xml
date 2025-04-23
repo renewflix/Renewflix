@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.cZ android:layout_width="fill_parent" android:layout_height="fill_parent" cardCornerRadius="8.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/2131246749" android:padding="@dimen/2131165940" android:layout_width="fill_parent" android:layout_height="fill_parent" android:animateLayoutChanges="true">
+        <o.ddX android:layout_gravity="end" android:id="@id/2131427718" android:padding="10.0dip" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/2131250198" android:contentDescription="@string/2132017682" nb_buttonColor="@color/2131100193" nb_cornerRadius="16.0dip" nb_iconColor="@color/2131100313" nb_strokeColor="@color/2131100051" nb_strokeWidth="1.0dip" />
+        <androidx.viewpager2.widget.ViewPager2 android:id="@id/2131428533" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginTop="@dimen/2131165939" android:layout_marginBottom="12.0dip" android:layout_marginStart="@dimen/2131165939" android:layout_marginEnd="@dimen/2131165939">
+            <o.def android:textSize="@dimen/2131166975" android:layout_gravity="start|center" android:id="@id/2131427488" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/2132018456" nb_buttonColor="@color/2131100185" style="@style/2132083248" />
+            <o.cew android:layout_gravity="center" android:id="@id/2131428535" android:background="@color/2131101989" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" tabBackground="@drawable/2131252094" tabGravity="2131427673" tabIndicatorHeight="0.0dip" tabMaxWidth="18.0dip" />
+            <FrameLayout android:layout_gravity="end|center" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <o.def android:textSize="@dimen/2131166975" android:id="@id/2131428937" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/2132018462" style="@style/2132083238" />
+                <o.def android:textSize="@dimen/2131166975" android:id="@id/2131427973" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/2132018457" style="@style/2132083247" />
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+</o.cZ>

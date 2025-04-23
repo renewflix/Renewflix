@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_gravity="center" android:id="@id/2131429353" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_behavior="@string/2132017449">
+        <include android:id="@id/2131428662" layout="@layout/2131624450" style="@style/2132084423" />
+    </ScrollView>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/2131428665" android:visibility="gone" style="@style/2132084428">
+        <include layout="@layout/2131624444" />
+        <o.dei android:layout_gravity="center_horizontal" android:id="@id/2131428666" android:layout_marginTop="@dimen/2131165444" android:text="@string/2132019345" style="@style/2132083395" />
+    </LinearLayout>
+</FrameLayout>

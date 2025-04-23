@@ -1,0 +1,50 @@
+.class public final synthetic Lo/bax;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/iQW;
+
+
+# instance fields
+.field private synthetic b:Lo/bau;
+
+.field private synthetic c:Lo/bas;
+
+.field private synthetic e:Ljava/util/Collection;
+
+
+# direct methods
+.method public synthetic constructor <init>(Ljava/util/Collection;Lo/bau;Lo/bas;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lo/bax;->e:Ljava/util/Collection;
+
+    iput-object p2, p0, Lo/bax;->b:Lo/bau;
+
+    iput-object p3, p0, Lo/bax;->c:Lo/bas;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke()Ljava/lang/Object;
+    .locals 3
+
+    .line 0
+    iget-object v0, p0, Lo/bax;->e:Ljava/util/Collection;
+
+    iget-object v1, p0, Lo/bax;->b:Lo/bau;
+
+    iget-object v2, p0, Lo/bax;->c:Lo/bas;
+
+    invoke-static {v0, v1, v2}, Lo/bau;->b(Ljava/util/Collection;Lo/bau;Lo/bas;)Ljava/util/List;
+
+    move-result-object v0
+
+    return-object v0
+.end method

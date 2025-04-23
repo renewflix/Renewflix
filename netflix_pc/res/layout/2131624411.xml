@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.hyw android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131427702" android:focusable="false" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <o.hyM android:id="@id/2131427697" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" android:screenReaderFocusable="true" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/2131429731" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <o.hyM android:gravity="center" android:id="@id/2131429735" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+        <o.hyM android:gravity="center" android:id="@id/2131429737" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+        <o.dei android:gravity="center" android:id="@id/2131429734" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+        <o.dei android:gravity="center" android:id="@id/2131429733" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <o.dei android:textStyle="bold" android:id="@id/2131427699" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+</o.hyw>

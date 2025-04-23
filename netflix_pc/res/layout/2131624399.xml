@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.hye android:focusable="true" android:focusableInTouchMode="true" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" android:layoutDirection="ltr" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131427702" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <o.hyM android:id="@id/2131427697" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131427698" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131427700" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="false" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <o.hyM android:id="@id/2131427696" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    <o.hyM android:id="@id/2131427701" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    <o.dei android:gravity="center" android:id="@id/2131427703" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:importantForAccessibility="no" />
+    <View android:id="@id/2131427704" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    <o.dei android:textStyle="bold" android:id="@id/2131427699" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+</o.hye>

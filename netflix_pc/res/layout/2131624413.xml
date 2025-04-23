@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131429779" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:id="@id/2131429343" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <FrameLayout android:id="@id/2131429781" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429342" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:gravity="center" android:id="@id/2131428585" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr">
+            <TextView android:gravity="center" android:id="@id/2131429344" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="ltr" android:layoutDirection="ltr" />
+            <TextView android:gravity="center" android:id="@id/2131428080" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="ltr" android:layoutDirection="ltr" />
+        </LinearLayout>
+    </FrameLayout>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429425" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132020407" />
+    <o.dei android:id="@id/2131429806" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <FrameLayout android:id="@id/2131429783" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429804" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <o.dei android:gravity="center" android:id="@id/2131429807" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+</FrameLayout>

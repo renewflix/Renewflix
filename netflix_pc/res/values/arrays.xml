@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="2130903041">
+        <item>@id/2131427654</item>
+        <item>@id/2131427654</item>
+        <item>@id/2131427657</item>
+    </array>
+    <string-array name="2130903042">
+        <item>@string/2132017701</item>
+        <item>@string/2132017694</item>
+        <item>@string/2132017700</item>
+        <item>@string/2132017697</item>
+        <item>@string/2132017695</item>
+        <item>@string/2132017702</item>
+        <item>@string/2132017698</item>
+        <item>@string/2132017696</item>
+    </string-array>
+    <string-array name="2130903043">
+        <item>@string/2132017699</item>
+        <item>@string/2132017701</item>
+        <item>@string/2132017694</item>
+        <item>@string/2132017700</item>
+        <item>@string/2132017697</item>
+        <item>@string/2132017695</item>
+        <item>@string/2132017702</item>
+        <item>@string/2132017698</item>
+        <item>@string/2132017696</item>
+    </string-array>
+    <string-array name="2130903044">
+        <item>@string/2132017842</item>
+        <item>@string/2132017844</item>
+        <item>@string/2132017843</item>
+    </string-array>
+</resources>

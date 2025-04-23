@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <o.aaf android:gravity="center" android:id="@id/2131427835" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/2131165423" android:paddingEnd="@dimen/2131165424">
+            <o.aaj android:orientation="horizontal" android:id="@id/2131428348" android:layout_width="wrap_content" android:layout_height="wrap_content" layout_constraintGuide_percent="0.1" />
+            <o.aaj android:orientation="vertical" android:id="@id/2131428346" android:layout_width="wrap_content" android:layout_height="wrap_content" layout_constraintGuide_percent="0.25" />
+            <o.aaj android:orientation="vertical" android:id="@id/2131428347" android:layout_width="wrap_content" android:layout_height="wrap_content" layout_constraintGuide_percent="0.75" />
+            <o.aaj android:orientation="horizontal" android:id="@id/2131428339" android:layout_width="wrap_content" android:layout_height="wrap_content" layout_constraintGuide_percent="0.58" />
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/2131428334" android:focusable="true" android:layout_width="280.0dip" android:layout_height="wrap_content" android:divider="@drawable/2131246750" layout_constraintLeft_toLeftOf="@id/2131428346" layout_constraintRight_toRightOf="@id/2131428347" layout_constraintTop_toTopOf="2131429026">
+                <o.dei android:gravity="center" android:layout_gravity="center" android:layout_marginTop="@dimen/2131165428" android:text="@string/2132018681" android:maxLines="1" style="@style/2132083029" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/2131427837" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165428" android:divider="@drawable/2131246750" android:showDividers="middle" layout_constraintLeft_toLeftOf="@id/2131428346" layout_constraintRight_toRightOf="@id/2131428347" layout_constraintTop_toTopOf="@id/2131428348">
+                <o.amf android:layout_width="fill_parent" android:layout_height="0.0dip" />
+                <LinearLayout android:orientation="horizontal" android:id="@id/2131427836" android:background="@drawable/2131252063" android:padding="@dimen/2131165422" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintLeft_toLeftOf="2131429026" layout_constraintRight_toRightOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428334">
+                    <ImageView android:gravity="center" android:layout_gravity="center_vertical" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:src="@drawable/2131247377" android:scaleType="fitCenter" />
+                    <o.dei android:gravity="start|center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/2132018715" android:layout_weight="1.0" android:paddingStart="16.0dip" style="@style/2132083024" />
+                    <ImageView android:gravity="center" android:layout_gravity="end|center" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:src="@drawable/2131247365" android:scaleType="fitCenter" android:alpha="0.3" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@id/2131427850" android:background="@drawable/2131252063" android:padding="@dimen/2131165422" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintLeft_toLeftOf="2131429026" layout_constraintRight_toRightOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428334">
+                    <ImageView android:gravity="center" android:layout_gravity="center_vertical" android:background="@null" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:scaleType="fitCenter" />
+                    <o.dei android:gravity="start|center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/2132018724" android:layout_weight="1.0" android:paddingStart="16.0dip" style="@style/2132083024" />
+                    <ImageView android:gravity="center" android:layout_gravity="end|center" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:src="@drawable/2131247365" android:scaleType="fitCenter" android:alpha="0.3" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@id/2131427848" android:background="@drawable/2131252063" android:padding="@dimen/2131165422" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintLeft_toLeftOf="2131429026" layout_constraintRight_toRightOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428334">
+                    <ImageView android:gravity="center" android:layout_gravity="center_vertical" android:background="@null" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:scaleType="fitCenter" />
+                    <o.dei android:gravity="start|center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/2132018723" android:layout_weight="1.0" android:paddingStart="16.0dip" style="@style/2132083024" />
+                    <ImageView android:gravity="center" android:layout_gravity="end|center" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:src="@drawable/2131247365" android:scaleType="fitCenter" android:alpha="0.3" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@id/2131427841" android:background="@drawable/2131252063" android:padding="@dimen/2131165422" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintLeft_toLeftOf="2131429026" layout_constraintRight_toRightOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428334">
+                    <ImageView android:gravity="center" android:layout_gravity="center_vertical" android:background="@null" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:scaleType="fitCenter" />
+                    <o.dei android:gravity="start|center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/2132018720" android:layout_weight="1.0" android:paddingStart="16.0dip" style="@style/2132083024" />
+                    <ImageView android:gravity="center" android:layout_gravity="end|center" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:src="@drawable/2131247365" android:scaleType="fitCenter" android:alpha="0.3" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@id/2131427817" android:background="@drawable/2131252063" android:padding="@dimen/2131165422" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintLeft_toLeftOf="2131429026" layout_constraintRight_toRightOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428334">
+                    <ImageView android:gravity="center" android:layout_gravity="center_vertical" android:background="@null" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:scaleType="fitCenter" />
+                    <o.dei android:gravity="start|center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/2132018683" android:layout_weight="1.0" android:paddingStart="16.0dip" style="@style/2132083024" />
+                    <ImageView android:gravity="center" android:layout_gravity="end|center" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:src="@drawable/2131247365" android:scaleType="fitCenter" android:alpha="0.3" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@id/2131427834" android:background="@drawable/2131252063" android:padding="@dimen/2131165422" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintLeft_toLeftOf="2131429026" layout_constraintRight_toRightOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428334">
+                    <ImageView android:gravity="center" android:layout_gravity="center_vertical" android:background="@null" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:scaleType="fitCenter" />
+                    <o.dei android:gravity="start|center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/2132018714" android:layout_weight="1.0" android:paddingStart="16.0dip" style="@style/2132083024" />
+                    <ImageView android:gravity="center" android:layout_gravity="end|center" android:layout_width="@dimen/2131165418" android:layout_height="@dimen/2131165418" android:src="@drawable/2131247365" android:scaleType="fitCenter" android:alpha="0.3" />
+                </LinearLayout>
+                <o.amf android:layout_width="fill_parent" android:layout_height="0.0dip" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/2131427844" android:focusable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" layout_constraintBottom_toBottomOf="2131429026" layout_constraintLeft_toLeftOf="@id/2131428346" layout_constraintRight_toRightOf="@id/2131428347" layout_constraintTop_toTopOf="@id/2131428339" layout_constraintVertical_bias="0.15" layout_constraintVertical_chainStyle="1">
+                <o.dez android:id="@id/2131428771" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <include android:id="@id/2131428772" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/2131624039" />
+                    <include android:id="@id/2131429270" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/2131624774" />
+                </o.dez>
+            </LinearLayout>
+        </o.aaf>
+    </ScrollView>
+</merge>

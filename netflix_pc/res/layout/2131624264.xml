@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/2131429487" android:layout_width="fill_parent" android:layout_height="fill_parent" android:transitionGroup="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/2131165444" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <o.dei android:id="@id/2131429479" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:text="@string/2132019163" style="@style/2132083366" />
+        <o.dei android:id="@id/2131429478" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132019162" style="@style/2132083452" />
+        <o.dei android:id="@id/2131429483" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:text="@string/2132019167" style="@style/2132083366" />
+        <o.dei android:id="@id/2131429480" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132019164" android:paddingStart="@dimen/2131165529" style="@style/2132083452" />
+        <o.dei android:id="@id/2131429481" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166982" android:text="@string/2132019165" android:paddingStart="@dimen/2131165529" style="@style/2132083452" />
+        <o.dei android:id="@id/2131429482" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166982" android:text="@string/2132019166" android:paddingStart="@dimen/2131165529" style="@style/2132083452" />
+        <o.dei android:id="@id/2131429485" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:text="@string/2132019169" style="@style/2132083366" />
+        <o.dei android:id="@id/2131429484" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132019168" style="@style/2132083452" />
+        <o.dei android:id="@id/2131429486" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:text="@string/2132019171" style="@style/2132083366" />
+        <o.dei android:paddingBottom="@dimen/2131165529" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132019170" style="@style/2132083452" />
+    </LinearLayout>
+</ScrollView>

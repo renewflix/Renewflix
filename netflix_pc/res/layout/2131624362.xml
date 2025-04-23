@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/2131429603" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/2131166443"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/2131429610" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:layout_marginEnd="8.0dip" />
+    <ViewStub android:id="@id/2131429611" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083395" />
+</LinearLayout>

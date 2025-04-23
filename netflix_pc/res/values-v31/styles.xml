@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083851" parent="@style/2132083849">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowSplashScreenBackground">@android:color/black</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/2131246576</item>
+        <item name="detailsPageParallaxStartColor">@color/2131099706</item>
+        <item name="netflixStatusBarColor">@color/2131099700</item>
+        <item name="profileSwitchBackgroundColor">?netflixStatusBarColor</item>
+        <item name="slidingMenuSeparatorColor">@color/2131099871</item>
+    </style>
+</resources>

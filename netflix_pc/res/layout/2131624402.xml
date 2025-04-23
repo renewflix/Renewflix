@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131428486" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.hyM android:id="@id/2131428467" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <o.dei android:gravity="center" android:id="@id/2131428485" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <o.dei android:gravity="center" android:id="@id/2131428514" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</FrameLayout>

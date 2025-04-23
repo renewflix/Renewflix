@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/2131250739" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textSize="18.0sp" android:textColor="@color/2131099879" android:gravity="center" android:id="@id/2131429052" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingExtra="4.0dip" />
+    <o.dei android:textSize="18.0sp" android:gravity="center" android:id="@id/2131429049" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="@string/2132019958" android:lineSpacingExtra="4.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/2131252096" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip">
+        <o.gMk android:orientation="horizontal" android:id="@id/2131427788" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="4.0dip" />
+        <com.google.android.material.textfield.TextInputLayout android:theme="@style/2132083580" android:id="@id/2131429053" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/2132019025" android:labelFor="@id/2131429050">
+            <EditText android:id="@id/2131429050" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="phone" style="@style/2132083554" />
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/2131429488" android:paddingBottom="24.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip">
+        <CheckBox android:id="@id/2131429489" android:layout_width="wrap_content" android:layout_height="wrap_content" android:buttonTint="@color/2131099757" />
+        <o.dei android:textSize="@dimen/2131166927" android:layout_gravity="center_vertical" android:id="@id/2131429490" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019965" style="@style/2132083560" />
+    </LinearLayout>
+</LinearLayout>

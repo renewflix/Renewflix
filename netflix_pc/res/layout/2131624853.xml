@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/2131252115" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.aaf android:id="@id/2131428451" android:clipChildren="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="@id/2131428443" android:inflatedId="@id/2131428443" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginBottom="@dimen/2131165444" layout_constraintDimensionRatio="H,16:9" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+        <ViewStub android:id="@id/2131427591" android:inflatedId="@id/2131427591" android:layout_width="0.0dip" android:layout_height="@dimen/2131167019" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+        <ViewStub android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165444" android:layout_marginEnd="@dimen/2131165444" layout_constraintEnd_toEndOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+        <View android:id="@id/2131428762" android:background="@color/2131099957" android:layout_width="0.0dip" android:layout_height="0.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="@id/2131429812" />
+        <ViewStub android:id="@id/2131429812" android:inflatedId="@id/2131429812" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginStart="12.0dip" android:layout_marginEnd="4.0dip" layout_constraintEnd_toStartOf="@id/2131427798" layout_constraintHeight_max="@dimen/2131167035" layout_constraintHeight_min="@dimen/2131167021" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428443" layout_goneMarginEnd="12.0dip" />
+        <ViewStub android:id="@id/2131427798" android:inflatedId="@id/2131427798" layout_constraintEnd_toStartOf="@id/2131427796" layout_constraintHeight_min="@dimen/2131167021" layout_constraintTop_toTopOf="@id/2131427796" layout_constraintWidth_min="@dimen/2131167021" style="@style/2132084005" />
+        <ViewStub android:id="@id/2131427796" android:inflatedId="@id/2131427796" layout_constraintEnd_toEndOf="2131429026" layout_constraintHeight_min="@dimen/2131167021" layout_constraintTop_toBottomOf="@id/2131428443" layout_constraintWidth_min="@dimen/2131167021" style="@style/2132084005" />
+    </o.aaf>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/2131252114" android:paddingBottom="4.0dip" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="12.0dip">
+        <ViewStub android:id="@id/2131427896" android:inflatedId="@id/2131427896" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166982" />
+        <ViewStub android:id="@id/2131429618" android:inflatedId="@id/2131429618" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166982" android:layout_marginBottom="@dimen/2131165444" />
+        <ViewStub android:id="@id/2131429642" android:inflatedId="@id/2131429642" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <o.aaf android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165444">
+            <ViewStub android:id="@id/cta1_hawkins" android:inflatedId="@id/cta1_hawkins" layout_constrainedWidth="true" layout_constraintWidth_max="-2" style="@style/2132084007" />
+            <ViewStub android:id="@id/cta2_hawkins" android:inflatedId="@id/cta2_hawkins" android:layout_marginStart="@dimen/2131165444" layout_constrainedWidth="true" layout_constraintWidth_max="-2" style="@style/2132084009" />
+            <o.ZE android:id="@id/2131428210" android:layout_width="0.0dip" android:layout_height="wrap_content" constraint_referenced_ids="cta1_hawkins,cta2_hawkins" flow_horizontalBias="0.0" flow_horizontalGap="4.0dip" flow_horizontalStyle="2" flow_verticalGap="4.0dip" flow_verticalStyle="2" flow_wrapMode="1" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+        </o.aaf>
+        <ViewStub android:id="@id/2131428355" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

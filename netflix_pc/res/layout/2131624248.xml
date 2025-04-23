@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <com.google.android.material.textfield.TextInputLayout android:theme="@style/2132083580" android:id="@id/2131428455" android:layout_width="fill_parent" android:layout_height="wrap_content" android:labelFor="@id/2131428035" style="@style/2132083578">
+            <EditText android:id="@id/2131428035" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textNoSuggestions" style="@style/2132083554" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <ImageView android:layout_width="10.0dip" android:layout_height="wrap_content" android:src="@drawable/2131250538" android:layout_centerVertical="true" android:importantForAccessibility="no" android:layout_marginEnd="10.0dip" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <o.dei android:id="@id/2131428454" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083558" />
+</LinearLayout>

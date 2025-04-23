@@ -1,0 +1,46 @@
+.class public final synthetic Lo/hmU;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/iRa;
+
+
+# instance fields
+.field private synthetic c:Ljava/io/File;
+
+.field private synthetic d:Lcom/netflix/mediaclient/ui/offline/OfflineVideoImageUtil;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lcom/netflix/mediaclient/ui/offline/OfflineVideoImageUtil;Ljava/io/File;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lo/hmU;->d:Lcom/netflix/mediaclient/ui/offline/OfflineVideoImageUtil;
+
+    iput-object p2, p0, Lo/hmU;->c:Ljava/io/File;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 2
+
+    .line 0
+    iget-object v0, p0, Lo/hmU;->d:Lcom/netflix/mediaclient/ui/offline/OfflineVideoImageUtil;
+
+    iget-object v1, p0, Lo/hmU;->c:Ljava/io/File;
+
+    check-cast p1, Lo/czM$d;
+
+    invoke-static {v0, v1, p1}, Lcom/netflix/mediaclient/ui/offline/OfflineVideoImageUtil;->d(Lcom/netflix/mediaclient/ui/offline/OfflineVideoImageUtil;Ljava/io/File;Lo/czM$d;)Lio/reactivex/MaybeSource;
+
+    move-result-object p1
+
+    return-object p1
+.end method

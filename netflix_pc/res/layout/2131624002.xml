@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="?selectableItemBackground" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingStart="8.0dip" android:paddingEnd="6.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textSize="32.0dip" android:textColor="?bottomNavBarForegroundColor" android:gravity="end|center" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxWidth="90.0dip" android:text="@string/2132018525" android:maxLines="1" android:letterSpacing="-0.05" autoSizeMaxTextSize="32.0sp" autoSizeMinTextSize="16.0sp" autoSizeTextType="1" fontFamily="?netflixBoldFont" />
+    <ImageView android:layout_gravity="end|center" android:clickable="false" android:layout_width="wrap_content" android:layout_height="36.0dip" android:src="@drawable/2131250221" android:scaleX="1.2" />
+</LinearLayout>

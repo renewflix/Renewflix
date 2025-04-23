@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.huc android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/2131166796"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131624713" />
+    <include layout="@layout/2131624718" />
+</o.huc>

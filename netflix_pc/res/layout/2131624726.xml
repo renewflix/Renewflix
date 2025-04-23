@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/2131166802"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Space android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+    <o.def android:id="@id/2131429907" android:text="@string/2132019063" android:layout_marginEnd="@dimen/2131166442" style="@style/2132083237" />
+    <o.dej android:id="@id/2131428938" android:drawableStart="@null" android:accessibilityLiveRegion="polite" style="@style/2132083236" />
+</LinearLayout>

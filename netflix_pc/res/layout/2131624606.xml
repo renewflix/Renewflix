@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/2131427995" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="16.0dip" android:paddingVertical="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131427992" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingEnd="16.0dip">
+        <ViewStub android:layout_gravity="center" android:id="@id/2131427993" android:layout_width="24.0dip" android:layout_height="24.0dip" />
+    </FrameLayout>
+    <ViewStub android:layout_gravity="center" android:id="@id/2131427998" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <com.netflix.android.widgetry.widget.tabs.BadgeView android:textAppearance="@style/2132083617" android:textSize="12.0sp" android:textStyle="bold" android:textColor="@color/2131101027" android:layout_gravity="center" android:id="@id/2131427501" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="18.0dip" android:minHeight="18.0dip" android:layout_marginEnd="12.0dip" />
+    <TextView android:textAppearance="@style/2132083617" android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/2131100331" android:layout_gravity="center" android:id="@id/2131429394" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019133" android:layout_marginEnd="12.0dip" />
+    <ViewStub android:layout_gravity="end|center" android:id="@id/2131427990" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

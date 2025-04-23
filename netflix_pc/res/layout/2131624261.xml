@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/2131427778" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/2131428276" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/2131429202" android:layout_marginTop="?netflixActionBarSize" style="@style/2132084423" />
+    </LinearLayout>
+    <o.ddJ android:id="@id/2131427946" android:layout_width="fill_parent" android:layout_height="fill_parent" android:elevation="@dimen/2131165526" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

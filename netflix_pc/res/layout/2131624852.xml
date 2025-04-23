@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:paddingTop="@dimen/2131167033" android:paddingBottom="@dimen/2131167033" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/2131166443" android:paddingEnd="@dimen/2131166443" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/2131428366" android:inflatedId="@id/2131428366" android:layout_width="@dimen/2131167031" android:layout_height="@dimen/2131167032" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+    <ViewStub android:id="@id/2131428367" android:inflatedId="@id/2131428367" android:layout_width="@dimen/2131167031" android:layout_height="@dimen/2131167032" android:layout_marginStart="@dimen/2131167030" layout_constraintStart_toEndOf="@id/2131428366" layout_constraintTop_toTopOf="2131429026" />
+    <ViewStub android:id="@id/2131428368" android:layout_width="@dimen/2131167031" android:layout_height="@dimen/2131167032" android:layout_marginStart="@dimen/2131167030" layout_constraintEnd_toEndOf="2131429026" layout_constraintHorizontal_bias="0.0" layout_constraintStart_toEndOf="@id/2131428367" layout_constraintTop_toTopOf="2131429026" />
+</o.aaf>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/2131165922" />
+    <gradient android:startColor="?uma_view_collections_container_bg_gradient_start" android:endColor="?uma_view_collections_container_bg_gradient_end" android:angle="270.0" android:centerY="0.3" android:centerColor="?uma_view_collections_container_bg_gradient_end" />
+</shape>

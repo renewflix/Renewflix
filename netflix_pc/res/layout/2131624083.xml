@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131427514" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.aaf android:id="@id/2131429432" android:background="@drawable/2131250635" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/2131166475" android:paddingEnd="@dimen/2131166475" android:transitionGroup="true" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026">
+        <o.aaf android:id="@id/2131428200" android:layout_width="0.0dip" android:layout_height="48.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026">
+            <o.dei android:ellipsize="end" android:gravity="center" android:id="@id/2131429877" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginTop="@dimen/2131166475" android:maxLines="1" android:layout_marginStart="28.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toStartOf="@id/close_button" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083366" />
+            <o.bG android:layout_gravity="center" android:id="@id/close_button" android:background="@drawable/2131250632" android:padding="@dimen/2131166475" android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_margin="@dimen/2131166475" android:contentDescription="@string/2132017200" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+        </o.aaf>
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/2131429278" android:layout_width="fill_parent" android:layout_height="0.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428200" />
+    </o.aaf>
+</o.aaf>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?netflixActionBarSize" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.core.widget.NestedScrollView android:orientation="vertical" android:id="@id/2131429352" android:layout_width="0.0dip" android:layout_height="0.0dip" layout_constraintBottom_toTopOf="@id/2131428360" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026">
+        <LinearLayout android:orientation="vertical" android:id="@id/2131428602" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <o.dei android:textColor="@color/2131100331" android:id="@id/2131429566" android:paddingTop="@dimen/2131165529" android:paddingBottom="@dimen/2131165444" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/2131166749" android:paddingEnd="@dimen/2131166749" style="@style/2132083543" />
+            <o.dei android:textColor="@color/2131101027" android:id="@id/2131427705" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/2131166749" android:paddingEnd="@dimen/2131166749" style="@style/2132083363" />
+            <o.dei android:textColor="@color/2131100331" android:id="@id/2131429593" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165444" android:layout_marginBottom="@dimen/2131166982" android:paddingStart="@dimen/2131166749" android:paddingEnd="@dimen/2131166749" style="@style/2132083576" />
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/2131429277" android:paddingTop="@dimen/2131165967" android:paddingBottom="0.0dip" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/2131166749" android:paddingEnd="@dimen/2131166749" layout_behavior="@string/2132017449" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <LinearLayout android:orientation="vertical" android:id="@id/2131428360" android:layout_width="0.0dip" android:layout_height="wrap_content" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026">
+        <com.netflix.mediaclient.acquisition.components.signupButton.OnrampButton android:layout_gravity="center_horizontal" android:id="@id/2131428359" android:paddingTop="@dimen/2131165967" android:paddingBottom="@dimen/2131165967" android:layout_height="wrap_content" android:text="@string/2132017863" android:paddingStart="@dimen/2131165967" android:paddingEnd="@dimen/2131165967" style="@style/2132083278" />
+    </LinearLayout>
+</o.aaf>

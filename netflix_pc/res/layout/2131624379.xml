@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/2131429795" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <o.dei android:textSize="16.0sp" android:textStyle="bold" android:textColor="@color/2131101102" android:id="@id/2131429706" android:layout_width="wrap_content" android:layout_height="wrap_content" android:accessibilityHeading="true" style="@style/2132083367" />
+        <o.dei android:textSize="14.0sp" android:textColor="@color/2131101102" android:id="@id/2131427557" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" style="@style/2132083367" />
+        <o.ddI android:id="@id/2131427803" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" fl_horizontalSpacing="8.0dip" fl_verticalSpacing="8.0dip" />
+    </LinearLayout>
+</merge>

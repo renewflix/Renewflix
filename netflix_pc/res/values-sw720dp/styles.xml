@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083040">
+        <item name="layout_constraintWidth_max">600.0dip</item>
+    </style>
+    <style name="2132083199">
+        <item name="layout_constraintWidth_max">600.0dip</item>
+    </style>
+</resources>

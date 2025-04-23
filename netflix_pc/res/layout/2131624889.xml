@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:background="?android:selectableItemBackground" android:paddingLeft="@dimen/2131166443" android:paddingTop="@dimen/2131166982" android:paddingRight="@dimen/2131166443" android:paddingBottom="@dimen/2131166982" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:minHeight="@dimen/2131167037" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131427587" android:layout_width="@dimen/2131167038" android:layout_height="@dimen/2131167037" layout_constraintBottom_toBottomOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="10.0dip" android:layout_marginStart="@dimen/2131165444" android:layout_marginEnd="@dimen/2131167065" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toStartOf="@id/2131427622" layout_constraintStart_toEndOf="@id/2131427587" layout_constraintTop_toTopOf="2131429026">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/2131427622" android:layout_width="@dimen/2131167036" android:layout_height="@dimen/2131167036" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintTop_toTopOf="2131429026">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</o.aaf>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.bL android:layout_gravity="center" android:id="@id/2131427679" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132017448" srcCompat="@drawable/2131250715" />
+    <o.dei android:textAppearance="@style/2132084001" android:ellipsize="end" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/2131427680" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxLines="1" android:layout_marginStart="@dimen/2131165444" android:layout_marginEnd="@dimen/2131165444" android:accessibilityHeading="true" autoSizeMaxTextSize="@dimen/2131165273" autoSizeMinTextSize="@dimen/2131165274" autoSizeTextType="1" />
+</merge>

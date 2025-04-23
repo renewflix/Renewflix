@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131429539" android:layout_width="wrap_content" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429743" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:elevation="2.0dip" style="@style/2132084020" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428763" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="1.0dip" layout_constraintLeft_toLeftOf="@id/2131429743" layout_constraintTop_toTopOf="@id/2131429743" style="@style/2132084020" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131427570" android:layout_width="wrap_content" android:layout_height="wrap_content" layout_constraintLeft_toLeftOf="@id/2131428763" layout_constraintTop_toTopOf="@id/2131428763" style="@style/2132084020" />
+</o.aaf>

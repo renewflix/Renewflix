@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.def android:textSize="@dimen/2131165521" android:gravity="bottom|center" android:layout_gravity="bottom|center" android:id="@id/2131429859" android:paddingTop="@dimen/2131165523" android:paddingBottom="@dimen/2131165522" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166982" android:layout_marginBottom="@dimen/2131166982" android:text="@string/2132020363" android:drawableTop="@drawable/2131250483" android:textAlignment="center" nb_borderlessRipple="true" nb_iconColor="?android:textColorPrimary" nb_rippleColor="@color/2131099786" nb_textColor="?android:textColorSecondary" style="@style/2132083273" />
+</merge>

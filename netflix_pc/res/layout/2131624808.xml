@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131429366" android:paddingTop="@dimen/2131166844" style="@style/2132084423"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/2131165444" layout="@layout/2131624825" />
+    <o.gco android:id="@id/2131429373" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/2131624443" />
+</FrameLayout>

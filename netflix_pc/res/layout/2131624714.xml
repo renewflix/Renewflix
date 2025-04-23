@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.hua android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/2131166802"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Space android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+    <o.def android:id="@id/2131429907" android:text="@string/2132019063" style="@style/2132083222" />
+    <o.def android:id="@id/2131429173" android:text="@string/2132019064" android:drawablePadding="@dimen/2131166443" android:drawableStart="@null" android:paddingStart="@dimen/2131165444" android:paddingEnd="@dimen/2131165529" style="@style/2132083257" />
+</o.hua>

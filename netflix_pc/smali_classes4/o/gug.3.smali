@@ -1,0 +1,50 @@
+.class public final synthetic Lo/gug;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/iRa;
+
+
+# instance fields
+.field private synthetic b:Lcom/netflix/mediaclient/ui/home/impl/lolomo/LolomoEpoxyController;
+
+.field private synthetic d:Lcom/netflix/mediaclient/servicemgr/interface_/LoMo;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lcom/netflix/mediaclient/ui/home/impl/lolomo/LolomoEpoxyController;Lcom/netflix/mediaclient/servicemgr/interface_/LoMo;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lo/gug;->b:Lcom/netflix/mediaclient/ui/home/impl/lolomo/LolomoEpoxyController;
+
+    iput-object p2, p0, Lo/gug;->d:Lcom/netflix/mediaclient/servicemgr/interface_/LoMo;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 2
+
+    .line 0
+    iget-object v0, p0, Lo/gug;->b:Lcom/netflix/mediaclient/ui/home/impl/lolomo/LolomoEpoxyController;
+
+    iget-object v1, p0, Lo/gug;->d:Lcom/netflix/mediaclient/servicemgr/interface_/LoMo;
+
+    check-cast p1, Ljava/lang/Integer;
+
+    invoke-virtual {p1}, Ljava/lang/Number;->intValue()I
+
+    move-result p1
+
+    invoke-static {v0, v1, p1}, Lcom/netflix/mediaclient/ui/home/impl/lolomo/LolomoEpoxyController;->$r8$lambda$-3PYDhtnN1LM5ZVXshtjOMTZ3hw(Lcom/netflix/mediaclient/ui/home/impl/lolomo/LolomoEpoxyController;Lcom/netflix/mediaclient/servicemgr/interface_/LoMo;I)Lo/iPc;
+
+    move-result-object p1
+
+    return-object p1
+.end method

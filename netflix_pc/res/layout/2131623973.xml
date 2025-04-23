@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/2131427778" android:paddingTop="@dimen/2131165276" android:paddingRight="@dimen/2131165275" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" statusBarBackground="@null" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131429744" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:layout_gravity="end|bottom|center" android:id="@id/2131428172" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/2131624241" />
+    <ViewStub android:layout_gravity="bottom" android:id="@id/2131427575" android:layout="@layout/2131624006" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <o.ddJ android:id="@id/2131427946" android:layout_width="fill_parent" android:layout_height="fill_parent" android:elevation="@dimen/2131165526" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

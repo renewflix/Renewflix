@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.del android:id="@id/2131428901" android:padding="@dimen/2131165444" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132018927" android:drawableStart="@drawable/2131250408" android:tooltipText="@string/2132018927" nb_borderlessRipple="false" nb_iconColor="@color/2131102007" nb_rippleColor="@color/2131099882" nb_textColor="@color/2131102007" style="@style/2132083248" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

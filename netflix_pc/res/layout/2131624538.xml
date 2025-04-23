@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.bz android:gravity="start|center|top" android:orientation="vertical" android:id="@id/2131429027" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131624540" />
+    <FrameLayout android:id="@id/2131427763" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip">
+        <View android:layout_gravity="top" android:id="@id/2131429351" android:background="?colorControlHighlight" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <androidx.core.widget.NestedScrollView android:id="@id/2131429352" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <android.widget.Space android:id="@id/2131429660" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/2131165221" />
+                <TextView android:id="@android:id/message" android:paddingLeft="?dialogPreferredPadding" android:paddingRight="?dialogPreferredPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?materialAlertDialogBodyTextStyle" />
+                <android.widget.Space android:id="@id/2131429659" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/2131165221" />
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+        <View android:layout_gravity="bottom" android:id="@id/2131429350" android:background="?colorControlHighlight" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/2131427815" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip">
+        <FrameLayout android:id="@id/2131427814" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/2131624539" />
+</o.bz>

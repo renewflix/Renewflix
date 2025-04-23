@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_gravity="center_horizontal" android:id="@id/2131429239" android:padding="@dimen/2131165529" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxWidth="@dimen/2131166829" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:id="@id/2131427896" android:paddingBottom="@dimen/2131165444" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132020544" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083389" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428103" android:layout_width="fill_parent" android:layout_height="0.0dip" android:src="@drawable/2131252084" android:scaleType="centerCrop" android:importantForAccessibility="no" layout_constraintDimensionRatio="W,1:2" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131427896" />
+    <o.ibY android:id="@id/2131428107" android:padding="@dimen/2131165967" android:layout_width="0.0dip" android:layout_height="0.0dip" android:importantForAccessibility="no" layout_constraintBottom_toBottomOf="@id/2131428103" layout_constraintEnd_toEndOf="@id/2131428103" layout_constraintStart_toStartOf="@id/2131428103" layout_constraintTop_toTopOf="@id/2131428103" layout_constraintWidth_max="@dimen/2131166829" style="@style/2132083389" />
+    <ScrollView android:id="@id/2131429353" android:paddingBottom="@dimen/2131165444" android:layout_width="0.0dip" android:layout_height="0.0dip" layout_constraintBottom_toBottomOf="2131429026" layout_constraintBottom_toTopOf="@id/2131427571" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428103">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083226">
+                <o.dei android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132020547" android:labelFor="@id/2131429673" style="@style/2132083590" />
+                <RadioGroup android:orientation="horizontal" android:id="@id/2131429673" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0.0dip">
+                    <RadioButton android:textSize="10.0sp" android:id="@id/2131429674" android:text="@string/2132020546" android:contentDescription="@string/2132017355" style="@style/2132083735" />
+                    <RadioButton android:textSize="15.0sp" android:id="@id/2131429672" android:text="@string/2132020546" android:contentDescription="@string/2132017354" style="@style/2132083735" />
+                    <RadioButton android:textSize="20.0sp" android:id="@id/2131429671" android:text="@string/2132020546" android:contentDescription="@string/2132017353" style="@style/2132083736" />
+                </RadioGroup>
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083226">
+                <o.dei android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132020545" android:labelFor="@id/2131429665" style="@style/2132083590" />
+                <o.ibV android:id="@id/2131429665" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083589" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083226">
+                <o.dei android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132020542" android:labelFor="@id/2131428034" style="@style/2132083590" />
+                <o.ibX android:id="@id/2131428034" android:layout_width="wrap_content" android:layout_height="wrap_content" android:spinnerMode="dropdown" style="@style/2132083589" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083226">
+                <o.dei android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132020541" android:labelFor="@id/2131428033" style="@style/2132083590" />
+                <o.ibV android:id="@id/2131428033" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083589" />
+            </LinearLayout>
+            <o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083226">
+                <o.dei android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132020551" android:labelFor="@id/2131427492" layout_constraintBottom_toBottomOf="@id/2131427492" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="@id/2131427492" style="@style/2132083590" />
+                <o.ibV android:id="@id/2131427492" android:layout_width="wrap_content" android:layout_height="wrap_content" cp_includeNone="true" layout_constraintEnd_toEndOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083589" />
+                <o.cz android:theme="@style/2132083472" android:textColor="@color/2131101988" android:ellipsize="end" android:id="@id/2131427495" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132020554" android:maxLines="2" android:contentDescription="@string/2132017356" android:layout_marginVertical="@dimen/2131166982" android:paddingHorizontal="@dimen/2131165444" android:paddingVertical="@dimen/2131166443" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131427492" />
+            </o.aaf>
+            <o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083226">
+                <o.dei android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132020552" android:labelFor="@id/2131429921" layout_constraintBottom_toBottomOf="@id/2131429921" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="@id/2131429921" style="@style/2132083590" />
+                <o.ibV android:id="@id/2131429921" android:layout_width="wrap_content" android:layout_height="wrap_content" cp_includeNone="true" layout_constraintEnd_toEndOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083589" />
+                <o.cz android:theme="@style/2132083472" android:textColor="@color/2131101988" android:ellipsize="end" android:id="@id/2131429922" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132020554" android:maxLines="2" android:contentDescription="@string/2132017357" android:layout_marginVertical="@dimen/2131166982" android:paddingHorizontal="@dimen/2131165444" android:paddingVertical="@dimen/2131166443" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131429921" />
+            </o.aaf>
+        </LinearLayout>
+    </ScrollView>
+    <o.aab android:id="@id/2131427571" android:layout_width="wrap_content" android:layout_height="wrap_content" barrierDirection="2" constraint_referenced_ids="save_button,reset_button" />
+    <o.def android:id="@id/save_button" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131165444" android:text="@string/2132020549" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toStartOf="@id/reset_button" layout_constraintHorizontal_chainStyle="2" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131427571" style="@style/2132083588" />
+    <o.def android:id="@id/reset_button" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/2132020548" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintHorizontal_chainStyle="2" layout_constraintStart_toEndOf="@id/save_button" layout_constraintTop_toBottomOf="@id/2131427571" style="@style/2132083588" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" layout="@layout/2131624443" />
+</o.aaf>

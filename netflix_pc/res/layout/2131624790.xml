@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.def android:textSize="@dimen/2131166975" android:id="@id/2131427606" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/2131166702" android:fontFamily="?netflixMediumFont" nb_buttonColor="@color/2131100201" style="@style/2132083231" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

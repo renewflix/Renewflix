@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="24.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/2132083731" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/2131428823" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:text="@string/2132019565" android:singleLine="true" />
+    <TextView android:textAppearance="@style/2132083730" android:id="@id/2131428822" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019563" android:layout_centerInParent="true" />
+    <RelativeLayout android:id="@id/2131428826" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:id="@id/2131428825" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_width="@dimen/2131166486" android:layout_height="@dimen/2131166486" android:layout_margin="16.0dip" android:src="?mediaRouteWifiIconDrawable" android:contentDescription="@string/2132018402" />
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginStart="24.0dip">
+                <TextView android:textAppearance="@style/2132083730" android:id="@id/2131428827" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019568" />
+                <TextView android:textAppearance="@style/2132083730" android:id="@id/2131428824" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/2132019566" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:id="@id/2131428816" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/2131428825">
+            <Space android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <Button android:id="@id/2131428815" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="0.0dip" android:text="@android:string/ok" style="?android:borderlessButtonStyle" />
+        </LinearLayout>
+    </RelativeLayout>
+    <ProgressBar android:id="@id/2131428821" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:indeterminate="true" style="?android:progressBarStyleHorizontal" />
+    <ListView android:id="@id/2131428814" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@android:color/transparent" android:dividerHeight="0.0dip" />
+</LinearLayout>

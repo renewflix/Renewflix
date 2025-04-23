@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131428641" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/2131428645" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_margin="@dimen/2131165529" android:indeterminate="true" android:indeterminateDrawable="@drawable/2131252081" android:indeterminateTint="@color/2131101916" android:indeterminateTintMode="src_in" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toStartOf="@id/2131428643" layout_constraintHorizontal_chainStyle="2" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+    <o.dei android:textSize="@dimen/2131166985" android:textColor="@color/2131102007" android:id="@id/2131428643" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/2131165529" android:text="@string/2132019326" android:singleLine="true" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintHorizontal_chainStyle="2" layout_constraintStart_toEndOf="@id/2131428645" layout_constraintTop_toTopOf="2131429026" />
+</o.aaf>

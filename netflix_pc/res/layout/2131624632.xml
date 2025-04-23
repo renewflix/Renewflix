@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/2131429494" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingStart="5.0dip" android:paddingEnd="5.0dip" android:layout_alignParentEnd="true" android:indeterminateTint="@color/2131099884" android:indeterminateTintMode="src_in" style="?android:progressBarStyleSmall" />
+    <o.dei android:textAppearance="@style/2132083667" android:textColor="@color/2131099884" android:id="@id/2131429495" android:padding="0.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="20.0dip" android:maxLines="1" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+    <ImageView android:id="@id/2131429493" android:visibility="gone" android:layout_width="15.0dip" android:layout_height="15.0dip" android:layout_centerVertical="true" android:layout_marginEnd="5.0dip" android:layout_toStartOf="@id/2131429495" />
+</RelativeLayout>

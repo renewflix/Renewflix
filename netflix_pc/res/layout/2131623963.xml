@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_gravity="start" android:id="@id/2131429402" android:scrollbars="vertical" android:fadingEdge="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="@null" android:divider="?listDividerAlertDialog" android:overScrollMode="ifContentScrolls" android:textAlignment="viewStart" paddingBottomNoButtons="@dimen/2131165216" paddingTopNoTitle="@dimen/2131165217" class="o.al$a" style="@style/2132084076" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131427906" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_margin="4.0dip" layout_flexGrow="1.0" layout_maxWidth="@dimen/2131167056" layout_minWidth="@dimen/2131167057" style="?shareButtonVisibilityStyle" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/2131429425" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/2131624820" />
+</FrameLayout>

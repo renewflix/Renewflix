@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/2131428014" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/2131427908" android:background="?dp_tabs_divider_color" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+    <o.cew android:textColor="@drawable/2131246759" android:id="@id/2131429622" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/2131165444" android:layout_marginRight="@dimen/2131165444" tabGravity="2131429552" tabIndicatorColor="@color/2131099711" tabIndicatorGravity="2" tabIndicatorHeight="4.0dip" tabMode="0" tabTextAppearance="@style/2132083357" />
+</LinearLayout>

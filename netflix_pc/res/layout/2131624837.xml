@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:paddingEnd="@dimen/2131165444"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="start" android:id="@id/2131429471" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/2131252047" android:importantForAccessibility="no" android:paddingStart="4.0dip" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428967" android:visibility="gone" android:layout_width="@dimen/2131166931" android:layout_height="@dimen/2131166930" android:layout_margin="@dimen/2131165444" android:scaleType="centerCrop" android:importantForAccessibility="no" style="@style/2132084020" />
+    <o.hgf android:id="@id/2131429539" android:visibility="gone" android:layout_width="@dimen/2131166931" android:layout_height="@dimen/2131166930" android:layout_margin="@dimen/2131165444" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="@dimen/2131165444">
+        <o.dei android:textSize="@dimen/2131166975" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:ellipsize="end" android:id="@id/2131429752" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:singleLine="false" />
+        <o.dei android:textSize="@dimen/2131166975" android:textColor="?android:colorEdgeEffect" android:ellipsize="end" android:id="@id/2131428764" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:singleLine="true" android:fontFamily="sans-serif-light" />
+        <o.dei android:textSize="@dimen/2131166971" android:textColor="@color/2131101733" android:ellipsize="end" android:id="@id/2131429705" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429853" android:layout_width="@dimen/2131166933" android:layout_height="@dimen/2131166932" android:layout_margin="@dimen/2131165444" />
+</LinearLayout>

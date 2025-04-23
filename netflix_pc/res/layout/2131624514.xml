@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131427810" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.def android:id="@id/2131428459" android:layout_width="fill_parent" android:layout_height="@dimen/2131165620" nb_buttonColor="@color/2131101106" nb_textColor="@color/2131101107" style="@style/2132083238" />
+    <o.def android:textStyle="bold" android:id="@id/2131428605" android:layout_width="fill_parent" android:layout_height="@dimen/2131165620" android:text="@string/2132020111" style="@style/2132083247" />
+</FrameLayout>

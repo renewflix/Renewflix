@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.amf android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="0.5" />
+    <o.iys android:id="@id/2131429872" android:background="@color/2131099957" android:clipToPadding="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:foreground="@drawable/2131252124" android:layout_weight="0.395" />
+    <o.amf android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="0.105" />
+</LinearLayout>

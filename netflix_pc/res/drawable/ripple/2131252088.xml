@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?colorPrimary" android:exitFadeDuration="@integer/2131492952"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/mask">
+        <shape>
+            <solid android:color="@color/2131099786" />
+            <corners android:radius="@dimen/2131165934" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/2131099871" />
+            <corners android:radius="@dimen/2131165934" />
+        </shape>
+    </item>
+</ripple>

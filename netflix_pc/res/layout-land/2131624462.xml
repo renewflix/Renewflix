@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.cbr android:orientation="horizontal" android:id="@id/material_clock_period_toggle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" checkedButton="@id/2131428698" selectionRequired="true" singleSelection="true" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/2131428698" android:layout_width="0.0dip" android:text="@string/2132019451" android:layout_weight="1.0" android:insetTop="4.0dip" android:insetBottom="4.0dip" style="?materialButtonOutlinedStyle" />
+    <Button android:id="@id/2131428699" android:layout_width="0.0dip" android:text="@string/2132019455" android:layout_weight="1.0" android:insetTop="4.0dip" android:insetBottom="4.0dip" style="?materialButtonOutlinedStyle" />
+</o.cbr>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netflix.mediaclient.ui.actionbar.impl.NetflixBottomNavBarImpl android:id="@id/2131427574" android:background="?bottomNavBarBackgroundColor" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="@dimen/2131165312" android:transitionName="bottom_tabs" android:elevation="@dimen/2131165311" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.android.widgetry.widget.tabs.BottomTabView android:id="@id/2131427578" android:layout_width="fill_parent" android:layout_height="fill_parent" itemBackground="@drawable/2131252065" itemIconTint="?bottomNavBarForegroundColor" itemTextColor="?bottomNavBarForegroundColor" />
+    <ViewStub android:layout_gravity="end|center" android:id="@id/2131428570" android:layout="@layout/2131624002" android:inflatedId="@id/2131428569" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+</com.netflix.mediaclient.ui.actionbar.impl.NetflixBottomNavBarImpl>

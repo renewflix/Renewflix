@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131428483" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429700" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <o.dei android:id="@id/2131429701" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <o.aaf android:id="@id/2131429696" android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026">
+        <o.hyM android:id="@id/2131429698" android:background="@color/2131101989" android:layout_width="wrap_content" android:layout_height="0.0dip" android:foreground="@color/2131101989" android:scaleType="fitXY" android:adjustViewBounds="true" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toStartOf="@id/2131429697" layout_constraintHorizontal_chainStyle="2" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+        <o.hyM android:id="@id/2131429697" android:background="@color/2131101989" android:layout_width="0.0dip" android:layout_height="0.0dip" android:foreground="@color/2131101989" android:scaleType="fitXY" android:adjustViewBounds="true" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toStartOf="@id/2131429699" layout_constraintStart_toEndOf="@id/2131429698" layout_constraintTop_toTopOf="2131429026" />
+        <o.hyM android:id="@id/2131429699" android:background="@color/2131101989" android:layout_width="wrap_content" android:layout_height="0.0dip" android:foreground="@color/2131101989" android:scaleType="fitXY" android:adjustViewBounds="true" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toEndOf="@id/2131429697" layout_constraintTop_toTopOf="2131429026" />
+    </o.aaf>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429703" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429702" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</FrameLayout>

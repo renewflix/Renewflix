@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.dei android:id="@android:id/title" android:paddingTop="@dimen/2131167064" android:paddingBottom="@dimen/2131166982" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/2131165529" android:paddingEnd="@dimen/2131165529" style="@style/2132083360"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

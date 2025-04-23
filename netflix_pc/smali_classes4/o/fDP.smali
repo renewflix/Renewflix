@@ -1,0 +1,38 @@
+.class public final synthetic Lo/fDP;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/iQW;
+
+
+# instance fields
+.field private synthetic b:Lo/fDI;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lo/fDI;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lo/fDP;->b:Lo/fDI;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke()Ljava/lang/Object;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, Lo/fDP;->b:Lo/fDI;
+
+    invoke-static {v0}, Lo/fDI;->bag_(Lo/fDI;)Landroid/widget/TextView;
+
+    move-result-object v0
+
+    return-object v0
+.end method

@@ -1,0 +1,46 @@
+.class public final synthetic Lo/gNi;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/iRa;
+
+
+# instance fields
+.field private synthetic d:Lo/iRa;
+
+.field private synthetic e:Lo/gMJ;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lo/iRa;Lo/gMJ;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lo/gNi;->d:Lo/iRa;
+
+    iput-object p2, p0, Lo/gNi;->e:Lo/gMJ;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 2
+
+    .line 0
+    iget-object v0, p0, Lo/gNi;->d:Lo/iRa;
+
+    iget-object v1, p0, Lo/gNi;->e:Lo/gMJ;
+
+    check-cast p1, Ljava/lang/Throwable;
+
+    invoke-static {v0, v1, p1}, Lo/gMJ;->e(Lo/iRa;Lo/gMJ;Ljava/lang/Throwable;)Lo/iPc;
+
+    move-result-object p1
+
+    return-object p1
+.end method

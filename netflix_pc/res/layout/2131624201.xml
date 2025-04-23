@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.ddX android:layout_gravity="end" android:id="@id/2131427606" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginTop="14.0dip" android:contentDescription="@string/2132017231" android:layout_marginEnd="14.0dip" nb_borderlessRipple="true" nb_rippleColor="@color/2131101957" nb_textColor="@color/2131099881" nb_tintIcon="false" />
+</FrameLayout>

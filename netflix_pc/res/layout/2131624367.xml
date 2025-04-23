@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.deb android:id="@id/2131428573" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/2131166443" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131427686" android:layout_width="fill_parent" android:layout_height="0.0dip" android:scaleType="centerCrop" android:importantForAccessibility="no" foreground="@drawable/2131252066" layout_constraintBottom_toTopOf="@id/2131429645" layout_constraintTop_toTopOf="2131429026" />
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131429645" android:layout_width="0.0dip" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" android:importantForAccessibility="no" foreground="@drawable/2131252066" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" style="@style/2132084020" />
+    <o.dei android:textSize="@dimen/2131167059" android:textColor="@color/2131102004" android:id="@id/2131428175" android:padding="@dimen/2131167058" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="@integer/2131492958" layout_constraintBottom_toBottomOf="2131429026" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" />
+</o.deb>

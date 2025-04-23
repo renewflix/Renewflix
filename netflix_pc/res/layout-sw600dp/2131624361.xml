@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131429313" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/2131429919" android:layout_width="0.0dip" android:layout_height="0.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+    <ViewStub android:id="@id/2131427589" android:inflatedId="@id/2131427589" android:layout_width="0.0dip" android:layout_height="0.0dip" android:scaleType="centerCrop" android:adjustViewBounds="true" android:importantForAccessibility="no" layout_constraintDimensionRatio="W,9:16" layout_constraintEnd_toEndOf="@id/2131429919" layout_constraintStart_toStartOf="@id/2131429919" layout_constraintTop_toTopOf="2131429026" />
+    <o.cs android:orientation="vertical" android:background="@null" android:paddingTop="@dimen/2131165444" android:layout_width="0.0dip" android:layout_height="wrap_content" android:paddingStart="@dimen/2131165967" android:paddingEnd="@dimen/2131165967" layout_constraintBottom_toBottomOf="@id/2131427589" layout_constraintStart_toStartOf="@id/2131427589" layout_constraintWidth_percent="0.6">
+        <ViewStub android:id="@id/2131429650" android:inflatedId="@id/2131429650" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083362" />
+        <ViewStub android:id="@id/supplemental_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083387" />
+        <ViewStub android:id="@id/2131429618" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131167064" style="@style/2132083389" />
+    </o.cs>
+</o.aaf>

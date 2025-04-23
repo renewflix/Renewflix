@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:padding="16.0dip" android:shape="oval">
+            <solid android:color="?menu_dialog_sheet_close_bg" />
+        </shape>
+    </item>
+    <item android:gravity="center" android:height="24.0dip" android:width="24.0dip" android:drawable="?menu_dialog_sheet_close_icon" />
+</layer-list>

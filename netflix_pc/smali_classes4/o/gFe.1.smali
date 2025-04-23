@@ -1,0 +1,109 @@
+.class public final Lo/gFe;
+.super Ljava/lang/Object;
+.source ""
+
+
+# static fields
+.field public static final c:Lo/gFe;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    .line 0
+    new-instance v0, Lo/gFe;
+
+    invoke-direct {v0}, Lo/gFe;-><init>()V
+
+    sput-object v0, Lo/gFe;->c:Lo/gFe;
+
+    return-void
+.end method
+
+.method private constructor <init>()V
+    .locals 0
+
+    .line 8
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public static final b(Landroid/content/Context;)Z
+    .locals 1
+
+    const-string v0, ""
+
+    invoke-static {p0, v0}, Lo/iRL;->b(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 13
+    invoke-static {p0}, Lo/izV;->s(Landroid/content/Context;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    .line 14
+    invoke-static {p0}, Lo/izV;->f(Landroid/content/Context;)F
+
+    move-result p0
+
+    const v0, 0x3f308d3d
+
+    cmpg-float p0, p0, v0
+
+    if-gez p0, :cond_0
+
+    const/4 p0, 0x1
+
+    return p0
+
+    :cond_0
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public static d(Landroid/content/Context;)I
+    .locals 4
+
+    const-string v0, ""
+
+    invoke-static {p0, v0}, Lo/iRL;->b(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 19
+    invoke-static {p0}, Lo/izV;->g(Landroid/content/Context;)I
+
+    move-result p0
+
+    int-to-double v0, p0
+
+    const-wide v2, 0x3fe3333333333333L    # 0.6
+
+    mul-double/2addr v0, v2
+
+    double-to-int p0, v0
+
+    return p0
+.end method
+
+
+# virtual methods
+.method public final e(Landroid/content/Context;)I
+    .locals 1
+
+    const-string v0, ""
+
+    invoke-static {p1, v0}, Lo/iRL;->b(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 29
+    sget-object v0, Lcom/netflix/mediaclient/ui/home/implstarcourt/LoMoWidthType;->c:Lcom/netflix/mediaclient/ui/home/implstarcourt/LoMoWidthType;
+
+    .line 1045
+    invoke-static {p1}, Lo/izV;->k(Landroid/content/Context;)I
+
+    move-result p1
+
+    return p1
+.end method

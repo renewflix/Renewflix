@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/2131429584" android:layout_width="0.0dip" android:layout_height="1400.0dip" layout_constraintEnd_toStartOf="@id/2131429586" layout_constraintHorizontal_weight="0.26" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/2131250585" android:adjustViewBounds="true" android:tint="#ff78289b" android:importantForAccessibility="no" />
+        <View android:background="@drawable/2131252086" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/2131250584" android:adjustViewBounds="true" android:tint="#ff0b6709" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/2131429586" android:layout_width="0.0dip" android:layout_height="1400.0dip" layout_constraintEnd_toStartOf="@id/2131429585" layout_constraintHorizontal_weight="0.17" layout_constraintStart_toEndOf="@id/2131429584" layout_constraintTop_toTopOf="2131429026">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/2131250589" android:adjustViewBounds="true" android:tint="#ffffc846" android:importantForAccessibility="no" />
+        <View android:background="@drawable/2131252087" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/2131250588" android:adjustViewBounds="true" android:tint="#ffff3131" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/2131429585" android:layout_width="0.0dip" android:layout_height="1400.0dip" layout_constraintEnd_toEndOf="@id/2131429583" layout_constraintHorizontal_weight="0.26" layout_constraintStart_toEndOf="@id/2131429586" layout_constraintTop_toTopOf="2131429026">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/2131250587" android:adjustViewBounds="true" android:tint="#ffff6ec8" android:importantForAccessibility="no" />
+        <View android:background="#ffff6ec8" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/2131250586" android:adjustViewBounds="true" android:tint="#ffff6ec8" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/2131429583" android:layout_width="0.0dip" android:layout_height="1400.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintHorizontal_weight="0.3" layout_constraintStart_toEndOf="@id/2131429585" layout_constraintTop_toTopOf="2131429026">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/2131250583" android:adjustViewBounds="true" android:tint="#ff005fe6" android:importantForAccessibility="no" />
+        <View android:background="@drawable/2131252085" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/2131250582" android:adjustViewBounds="true" android:tint="#ffd7beff" android:importantForAccessibility="no" />
+    </LinearLayout>
+</o.aaf>

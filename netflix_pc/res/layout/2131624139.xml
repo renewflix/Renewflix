@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/2131252068" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="center|top" android:id="@id/2131427978" android:paddingBottom="@dimen/2131165331" android:layout_width="@dimen/2131167055" android:layout_height="@dimen/2131167055">
+            <com.netflix.android.widgetry.widget.tabs.BadgeView android:layout_gravity="bottom|center" android:id="@id/2131427977" android:layout_width="@dimen/2131166737" android:layout_height="@dimen/2131166737" android:scaleType="fitXY" />
+        </FrameLayout>
+        <o.dei android:textSize="@dimen/2131165521" android:textColor="?android:textColorSecondary" android:gravity="center|top" android:layout_gravity="center|top" android:id="@id/2131427979" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132017543" android:lines="2" android:paddingStart="@dimen/2131166982" android:paddingEnd="@dimen/2131166982" android:hyphenationFrequency="fullFast" style="@style/2132083388" />
+    </LinearLayout>
+</merge>

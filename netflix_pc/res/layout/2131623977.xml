@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/2131428407" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="17.0dip" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+    <o.dei android:id="@id/2131429251" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_marginStart="8.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toEndOf="@id/2131428407" layout_constraintTop_toTopOf="2131429026" style="@style/2132082701" />
+    <o.dei android:id="@id/2131427462" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="@id/2131429251" layout_constraintTop_toBottomOf="@id/2131429251" style="@style/2132082700" />
+    <View android:background="@color/2131099884" android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_marginTop="20.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131427462" />
+</o.aaf>

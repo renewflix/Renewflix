@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/2131427778" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/2131427490" android:paddingTop="?netflixActionBarSize" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <o.dez android:id="@id/2131428206" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include android:id="@id/2131428646" layout="@layout/2131624444" />
+            <WebView android:id="@id/2131428170" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </o.dez>
+    </RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

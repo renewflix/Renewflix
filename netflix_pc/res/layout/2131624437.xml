@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.gaY android:id="@id/2131427647" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageButton android:id="@id/close_button" android:background="?selectableItemBackgroundBorderless" android:layout_width="@dimen/2131165968" android:layout_height="@dimen/2131165968" android:layout_margin="@dimen/2131165444" android:src="@drawable/2131247370" android:scaleType="fitCenter" android:contentDescription="@string/2132017231" layout_constraintEnd_toEndOf="2131429026" layout_constraintTop_toTopOf="2131429026" />
+</o.aaf>

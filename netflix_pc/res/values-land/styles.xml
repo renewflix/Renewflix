@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132084109" parent="@style/2132082964">
+        <item name="tabGravity">2131427673</item>
+        <item name="tabMode">1</item>
+    </style>
+    <style name="2132084350" parent="@style/2132084095">
+        <item name="android:textAppearance">?textAppearanceHeadline6</item>
+        <item name="android:textColor">?colorOnPrimary</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">start|center|top</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">@integer/2131492930</item>
+    </style>
+    <style name="2132084353" parent="@style/2132082988">
+        <item name="android:layout_gravity">start|bottom|center</item>
+    </style>
+</resources>

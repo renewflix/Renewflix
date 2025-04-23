@@ -1,0 +1,81 @@
+.class public final synthetic Lo/cKH;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/iRk;
+
+
+# instance fields
+.field private synthetic a:Lo/cHt;
+
+.field private synthetic b:Lcom/netflix/hawkins/consumer/tokens/Theme;
+
+.field private synthetic c:I
+
+.field private synthetic d:Lo/Ca;
+
+.field private synthetic e:Lo/cHp;
+
+.field private synthetic i:I
+
+
+# direct methods
+.method public synthetic constructor <init>(Lo/cHt;Lo/cHp;Lo/Ca;Lcom/netflix/hawkins/consumer/tokens/Theme;II)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lo/cKH;->a:Lo/cHt;
+
+    iput-object p2, p0, Lo/cKH;->e:Lo/cHp;
+
+    iput-object p3, p0, Lo/cKH;->d:Lo/Ca;
+
+    iput-object p4, p0, Lo/cKH;->b:Lcom/netflix/hawkins/consumer/tokens/Theme;
+
+    iput p5, p0, Lo/cKH;->c:I
+
+    iput p6, p0, Lo/cKH;->i:I
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 7
+
+    .line 0
+    iget-object v0, p0, Lo/cKH;->a:Lo/cHt;
+
+    iget-object v1, p0, Lo/cKH;->e:Lo/cHp;
+
+    iget-object v2, p0, Lo/cKH;->d:Lo/Ca;
+
+    iget-object v3, p0, Lo/cKH;->b:Lcom/netflix/hawkins/consumer/tokens/Theme;
+
+    iget v4, p0, Lo/cKH;->c:I
+
+    iget v6, p0, Lo/cKH;->i:I
+
+    check-cast p1, Lo/wY;
+
+    check-cast p2, Ljava/lang/Integer;
+
+    or-int/lit8 p2, v4, 0x1
+
+    .line 2000
+    invoke-static {p2}, Lo/yu;->e(I)I
+
+    move-result v5
+
+    move-object v4, p1
+
+    invoke-static/range {v0 .. v6}, Lo/cKI;->a(Lo/cHt;Lo/cHp;Lo/Ca;Lcom/netflix/hawkins/consumer/tokens/Theme;Lo/wY;II)V
+
+    sget-object p1, Lo/iPc;->a:Lo/iPc;
+
+    return-object p1
+.end method

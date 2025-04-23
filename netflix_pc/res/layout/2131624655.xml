@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingBottom="@dimen/2131166881" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textAppearance="@style/2132083617" android:textColor="@color/2131099884" android:id="@id/2131429094" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <o.dei android:textAppearance="@style/2132083617" android:textColor="@color/2131099882" android:id="@id/2131429095" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

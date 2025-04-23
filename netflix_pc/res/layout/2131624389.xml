@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/2131428453" android:background="@drawable/2131252096" android:layout_width="0.0dip" android:layout_height="0.0dip" layout_constraintBottom_toBottomOf="@id/2131428455" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="@id/2131428455" />
+    <com.google.android.material.textfield.TextInputLayout android:theme="@style/2132083580" android:id="@id/2131428455" android:background="@null" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:labelFor="@id/2131428035" layout_constraintEnd_toStartOf="@id/2131428436" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" style="@style/2132083578">
+        <EditText android:id="@id/2131428035" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/2132083554" />
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428436" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="@color/2131101893" android:contentDescription="@string/2132017250" android:layout_marginHorizontal="@dimen/2131165444" layout_constraintBottom_toBottomOf="@id/2131428455" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toEndOf="@id/2131428455" layout_constraintTop_toTopOf="@id/2131428455" />
+    <o.dei android:id="@id/2131428454" android:layout_width="0.0dip" android:layout_height="wrap_content" android:drawablePadding="@dimen/2131165937" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428455" style="@style/2132083558" />
+</o.aaf>

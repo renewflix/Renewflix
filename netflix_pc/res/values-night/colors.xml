@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="2131101109">#ff1f1f1f</color>
+    <color name="2131101110">#ffeaeaea</color>
+    <color name="2131101111">#ff444444</color>
+    <color name="2131101113">@color/2131101028</color>
+    <color name="2131101114">#ffc3c3c3</color>
+    <color name="2131101115">#ff1f1f1f</color>
+</resources>

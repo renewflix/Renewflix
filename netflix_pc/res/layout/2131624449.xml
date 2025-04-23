@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131428657" android:background="@color/2131099840" style="@style/2132084428"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_margin="@dimen/2131165975" style="@style/2132084428"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <o.dei android:textSize="@dimen/2131166987" android:textColor="@color/2131102007" android:id="@id/2131428660" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/2132018481" android:fontFamily="sans-serif-medium" />
+        <o.dei android:textSize="@dimen/2131166964" android:textColor="@color/2131101985" android:layout_gravity="center_horizontal" android:id="@id/2131428658" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:text="@string/2132018881" android:fontFamily="sans-serif" />
+        <o.def android:textSize="@dimen/2131166964" android:textColor="@color/2131101124" android:gravity="end" android:id="@id/2131428655" android:padding="@dimen/2131166982" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:text="@string/2132018661" android:textAllCaps="true" android:fontFamily="sans-serif-medium" style="@style/2132083229" />
+        <o.def android:textSize="@dimen/2131166964" android:textColor="@color/2131101124" android:gravity="end" android:id="@id/2131428659" android:padding="@dimen/2131166982" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:fontFamily="sans-serif-medium" style="@style/2132083229" />
+        <o.def android:textSize="@dimen/2131166964" android:textColor="@color/2131101124" android:gravity="end" android:layout_gravity="end" android:id="@id/2131428656" android:padding="@dimen/2131166982" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165529" android:text="@string/2132019209" android:fontFamily="sans-serif-medium" style="@style/2132083229" />
+    </LinearLayout>
+</FrameLayout>

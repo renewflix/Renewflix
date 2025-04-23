@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.def android:ellipsize="end" android:id="@id/2131429174" android:padding="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="0.0dip" android:minHeight="@dimen/2131165333" android:maxLines="1" android:drawablePadding="2.0dip" android:contentDescription="@string/2132017210" android:textAlignment="center" android:layout_marginStart="0.0dip" android:layout_marginEnd="@dimen/2131165444" layout_constraintBottom_toBottomOf="2131429026" layout_constraintVertical_bias="0.0" style="?primaryPostPlayButtonStyle" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

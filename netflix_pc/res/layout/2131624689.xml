@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:id="@id/2131429133" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layoutDirection="ltr" android:paddingStart="@dimen/2131166853" android:paddingEnd="@dimen/2131166853" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/2131427525" android:background="@drawable/2131250752" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" layout_constraintBottom_toTopOf="@id/2131427523" layout_constraintStart_toStartOf="2131429026">
+        <o.ddv android:layout_gravity="center" android:id="@id/2131427524" android:layout_width="wrap_content" android:layout_height="150.0dip" android:scaleType="fitXY" android:adjustViewBounds="true" measureBy="1" />
+    </LinearLayout>
+    <o.dei android:textColor="@color/2131102007" android:id="@id/2131427523" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" layout_constraintBottom_toBottomOf="2131429026" layout_constraintStart_toStartOf="2131429026" style="@style/2132083361" />
+</o.aaf>

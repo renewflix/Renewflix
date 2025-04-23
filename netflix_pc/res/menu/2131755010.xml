@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/2131250487" android:id="@id/2131429360" android:title="@string/2132020375" actionViewClass="android.widget.SearchView" showAsAction="APKTOOL_MISSING_0x7f0b044c|APKTOOL_MISSING_0x7f0b0194" />
+</menu>

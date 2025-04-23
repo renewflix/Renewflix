@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="@dimen/2131165444" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.dei android:textStyle="bold" android:id="@id/2131429002" android:layout_marginBottom="@dimen/2131165444" android:paddingStart="@dimen/2131165444" android:paddingEnd="@dimen/2131165444" style="@style/2132083395" />
+    <o.dei android:textStyle="bold" android:id="@id/2131429000" android:layout_marginBottom="@dimen/2131165444" android:paddingStart="@dimen/2131165444" android:paddingEnd="@dimen/2131165444" style="@style/2132083392" />
+    <o.dei android:textStyle="bold" android:autoLink="all" android:id="@id/2131429003" android:layout_marginBottom="@dimen/2131165444" android:paddingStart="@dimen/2131165444" android:paddingEnd="@dimen/2131165444" style="@style/2132083389" />
+    <o.dei android:id="@id/2131429001" android:paddingStart="@dimen/2131165444" android:paddingEnd="@dimen/2131165444" style="@style/2132083452" />
+    <View android:background="@null" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="@dimen/2131167064" />
+</LinearLayout>

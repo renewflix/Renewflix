@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.bt android:id="@id/2131427888" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131623957" />
+    <o.bu android:gravity="top" android:id="@id/2131427393" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:touchscreenBlocksFocus="true" android:keyboardNavigationCluster="true" style="?actionBarStyle">
+        <androidx.appcompat.widget.Toolbar android:id="@id/2131427391" android:layout_width="fill_parent" android:layout_height="wrap_content" navigationContentDescription="@string/2132017173" style="?toolbarStyle" />
+        <o.br android:theme="?actionModeTheme" android:id="@id/2131427405" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?actionModeStyle" />
+    </o.bu>
+</o.bt>

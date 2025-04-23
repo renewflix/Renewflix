@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131428418" android:padding="@dimen/2131166982" android:layout_width="fill_parent" android:layout_height="0.0dip" layout_constraintDimensionRatio="H,1:1" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <o.dei android:textStyle="bold" android:textColor="#00000000" android:ellipsize="end" android:id="@id/2131429706" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="........" android:lines="2" android:paddingHorizontal="4.0dip" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428418" style="@style/2132083356" />
+    <o.dei android:textColor="#00000000" android:id="@id/2131428319" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=".................." android:lines="1" android:paddingHorizontal="4.0dip" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131429706" style="@style/2132083452" />
+    <ViewStub android:layout_width="fill_parent" android:layout_height="wrap_content" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="@id/2131429706" />
+</o.aaf>

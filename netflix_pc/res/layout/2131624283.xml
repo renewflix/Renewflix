@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@id/2131428407" android:layout_width="@dimen/2131165609" android:layout_height="@dimen/2131165609" android:scaleType="centerCrop" android:adjustViewBounds="true" android:importantForAccessibility="no" android:elevation="@dimen/2131165608" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026" roundedCornerRadius="@dimen/2131165612" viewAspectRatio="1.0" />
+    <o.dei android:gravity="center" android:id="@id/2131429706" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165444" android:paddingHorizontal="@dimen/2131165444" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428407" style="@style/2132083363" />
+    <o.dei android:gravity="center" android:id="@id/2131429596" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/2131165444" layout_constraintEnd_toEndOf="@id/2131429706" layout_constraintStart_toStartOf="@id/2131429706" layout_constraintTop_toBottomOf="@id/2131429706" style="@style/2132083373" />
+</o.aaf>

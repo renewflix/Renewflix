@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/2131429450" android:background="@color/2131099700" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.ddJ android:id="@id/2131427946" android:layout_width="fill_parent" android:layout_height="fill_parent" android:elevation="@dimen/2131165526" />
+    <FrameLayout android:id="@id/2131429451" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/2131428646" android:background="@color/2131099700" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:layout_gravity="center" android:padding="@dimen/2131165529" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:indeterminateOnly="true" style="?android:progressBarStyle" />
+    </FrameLayout>
+</FrameLayout>

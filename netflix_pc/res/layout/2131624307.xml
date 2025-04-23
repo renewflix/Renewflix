@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.del android:id="@id/2131428301" android:padding="@dimen/2131165444" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="0.0dip" nb_borderlessRipple="false" nb_iconColor="@color/2131102007" nb_rippleColor="@color/2131099882" nb_textColor="@color/2131102007" style="@style/2132083248" />
+</LinearLayout>

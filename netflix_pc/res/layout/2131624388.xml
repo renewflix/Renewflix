@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.aaf android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/2131428671" android:layout_width="0.0dip" android:layout_height="115.0dip" android:layout_marginTop="320.0dip" android:layout_marginHorizontal="70.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toTopOf="2131429026">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/2131429644" android:layout_width="300.0dip" android:layout_height="16.0dip" android:layout_marginTop="16.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131428671">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/2131427804" android:layout_width="96.0dip" android:layout_height="40.0dip" android:layout_marginTop="16.0dip" layout_constraintEnd_toEndOf="2131429026" layout_constraintStart_toStartOf="2131429026" layout_constraintTop_toBottomOf="@id/2131429644">
+        <ViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</o.aaf>

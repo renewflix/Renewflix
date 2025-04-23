@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="2131492864">220</integer>
+    <integer name="2131492865">150</integer>
+    <integer name="2131492866">300</integer>
+    <integer name="2131492867">150</integer>
+    <integer name="2131492868">150</integer>
+    <integer name="2131492872">2</integer>
+    <integer name="2131492873">300</integer>
+    <item type="integer" name="2131492874">0.55</item>
+    <item type="integer" name="2131492875">0.32</item>
+    <item type="integer" name="2131492876">0.28</item>
+    <item type="integer" name="2131492877">0.28</item>
+    <integer name="2131492878">100</integer>
+    <integer name="2131492881">12451000</integer>
+    <integer name="2131492882">320</integer>
+    <integer name="2131492883">100</integer>
+    <integer name="2131492884">999</integer>
+    <integer name="2131492900">350</integer>
+    <integer name="2131492902">50</integer>
+    <integer name="2131492904">150</integer>
+    <integer name="2131492913">1</integer>
+    <integer name="2131492914">300</integer>
+    <integer name="2131492915">350</integer>
+    <integer name="2131492916">200</integer>
+    <integer name="2131492917">250</integer>
+    <integer name="2131492918">75</integer>
+    <integer name="2131492919">150</integer>
+    <integer name="2131492920">0</integer>
+    <integer name="2131492922">400</integer>
+    <integer name="2131492923">400</integer>
+    <integer name="2131492924">200</integer>
+    <integer name="2131492927">100</integer>
+    <integer name="2131492928">100</integer>
+    <integer name="2131492929">1</integer>
+    <integer name="2131492930">1</integer>
+    <integer name="2131492931">3</integer>
+    <integer name="2131492932">75</integer>
+    <integer name="2131492933">120</integer>
+    <integer name="2131492934">100</integer>
+    <integer name="2131492943">250</integer>
+    <integer name="2131492945">1</integer>
+    <integer name="2131492947">0</integer>
+    <integer name="2131492950">50</integer>
+    <integer name="2131492951">500</integer>
+    <integer name="2131492952">100</integer>
+    <integer name="2131492953">3000</integer>
+    <integer name="2131492955">200</integer>
+    <integer name="2131492958">3</integer>
+</resources>

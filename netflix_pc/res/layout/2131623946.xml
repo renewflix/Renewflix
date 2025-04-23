@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.bz android:gravity="start|center|top" android:orientation="vertical" android:id="@id/2131429027" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131623947" />
+    <FrameLayout android:id="@id/2131427763" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip">
+        <ImageView android:layout_gravity="top" android:id="@id/2131429351" android:background="#1f000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" backgroundTint="?android:colorForeground" />
+        <androidx.core.widget.NestedScrollView android:id="@id/2131429352" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <android.widget.Space android:id="@id/2131429660" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/2131165221" />
+                <TextView android:id="@android:id/message" android:paddingLeft="?dialogPreferredPadding" android:paddingRight="?dialogPreferredPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083619" />
+                <android.widget.Space android:id="@id/2131429659" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/2131165221" />
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+        <ImageView android:layout_gravity="bottom" android:id="@id/2131429350" android:background="#1f000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" backgroundTint="?android:colorForeground" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/2131427815" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip">
+        <FrameLayout android:id="@id/2131427814" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/2131623945" />
+</o.bz>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.def android:textSize="@dimen/2131166876" android:ellipsize="end" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/2131428551" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minWidth="@dimen/2131166874" android:minHeight="@dimen/2131166873" android:drawablePadding="@dimen/2131165444" nb_borderlessRipple="false" nb_buttonColor="@android:color/transparent" nb_iconColor="?android:textColorPrimary" nb_rippleColor="@color/2131101984" nb_strokeColor="@android:color/transparent" nb_strokeWidth="0.0dip" nb_textColor="?android:textColorPrimary" />
+    <View android:id="@id/2131429323" android:background="@color/2131101980" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip" />
+</LinearLayout>

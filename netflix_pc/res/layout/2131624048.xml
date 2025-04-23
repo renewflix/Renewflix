@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.floatingactionbutton.FloatingActionButton android:id="@id/2131427487" android:clickable="true" android:layout_marginBottom="@dimen/2131165298" android:src="@null" android:layout_centerHorizontal="true" layout_anchorGravity="APKTOOL_MISSING_0x7f0b00ea|2131427673" style="@style/2132083016" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,81 @@
+.class public final Lo/drd;
+.super Ljava/lang/Object;
+.source ""
+
+
+# static fields
+.field public static final e:Lo/drd;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    .line 0
+    new-instance v0, Lo/drd;
+
+    invoke-direct {v0}, Lo/drd;-><init>()V
+
+    sput-object v0, Lo/drd;->e:Lo/drd;
+
+    return-void
+.end method
+
+.method private constructor <init>()V
+    .locals 0
+
+    .line 17
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public static e(Lo/aZR;Lo/dnK;Lo/aYV;)V
+    .locals 2
+
+    const-string v0, ""
+
+    invoke-static {p0, v0}, Lo/iRL;->b(Ljava/lang/Object;Ljava/lang/String;)V
+
+    invoke-static {p1, v0}, Lo/iRL;->b(Ljava/lang/Object;Ljava/lang/String;)V
+
+    invoke-static {p2, v0}, Lo/iRL;->b(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 28
+    const-string v0, "videoIds"
+
+    invoke-interface {p0, v0}, Lo/aZR;->c(Ljava/lang/String;)Lo/aZR;
+
+    .line 29
+    sget-object v0, Lo/aYs;->e:Lo/aYo;
+
+    invoke-static {v0}, Lo/aYs;->a(Lo/aYo;)Lo/aZg;
+
+    move-result-object v0
+
+    .line 1026
+    iget-object v1, p1, Lo/dnK;->c:Ljava/util/List;
+
+    .line 29
+    invoke-virtual {v0, p0, p2, v1}, Lo/aZg;->b(Lo/aZR;Lo/aYV;Ljava/util/List;)V
+
+    .line 30
+    const-string v0, "fetchPlayableData"
+
+    invoke-interface {p0, v0}, Lo/aZR;->c(Ljava/lang/String;)Lo/aZR;
+
+    .line 31
+    sget-object v0, Lo/aYs;->c:Lo/aYo;
+
+    .line 2027
+    iget-boolean p1, p1, Lo/dnK;->d:Z
+
+    .line 31
+    invoke-static {p1}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+
+    move-result-object p1
+
+    invoke-interface {v0, p0, p2, p1}, Lo/aYo;->a(Lo/aZR;Lo/aYV;Ljava/lang/Object;)V
+
+    return-void
+.end method

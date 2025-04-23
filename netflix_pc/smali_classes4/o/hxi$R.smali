@@ -1,0 +1,44 @@
+.class public final Lo/hxi$R;
+.super Lo/hxi;
+.source ""
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lo/hxi;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "R"
+.end annotation
+
+
+# static fields
+.field public static final a:Lo/hxi$R;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    .line 0
+    new-instance v0, Lo/hxi$R;
+
+    invoke-direct {v0}, Lo/hxi$R;-><init>()V
+
+    sput-object v0, Lo/hxi$R;->a:Lo/hxi$R;
+
+    return-void
+.end method
+
+.method private constructor <init>()V
+    .locals 1
+
+    const/4 v0, 0x0
+
+    .line 29
+    invoke-direct {p0, v0}, Lo/hxi;-><init>(B)V
+
+    return-void
+.end method

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.def android:enabled="true" android:layout_gravity="center" android:id="@id/2131429656" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/2132083547" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/2131428640" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:indeterminateOnly="true" android:indeterminateDrawable="@drawable/2131252081" android:scaleX="0.8" android:scaleY="0.8" android:elevation="@dimen/2131166906" android:indeterminateTint="@color/2131102007" style="?android:progressBarStyle" />
+</merge>
